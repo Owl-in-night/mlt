@@ -9,7 +9,7 @@ const About = () => {
       <section className="relative h-screen">
         <div className="absolute inset-0">
           <img
-            src="../../public/img/about33.png"
+            src="../../img/about33.png"
             alt="Background"
             className="w-full h-full object-cover"
           />
@@ -80,7 +80,7 @@ const About = () => {
         {/* Imagen */}
         <div className="md:w-1/2 flex justify-center md:justify-start">
           <img
-            src="../../public/img/about22.JPG"
+            src="../../img/about22.JPG"
             alt="Platform Overview"
             className="w-full max-w-md md:max-w-lg rounded-2xl shadow-xl object-cover aspect-video"
           />
@@ -112,7 +112,7 @@ const About = () => {
         {/* Imagen */}
         <div className="md:w-1/2 flex justify-center md:justify-end">
           <img
-            src="../../public/img/img21.png"
+            src="../../img/img21.png"
             alt="Innovation"
             className="w-full max-w-md md:max-w-lg rounded-2xl shadow-xl object-cover aspect-video"
           />
@@ -152,7 +152,7 @@ const About = () => {
           {[1, 2, 3].map((value) => (
             <div key={value} className="text-center space-y-4">
               <img
-                src={`../../public/img/value${value}.jpg`}
+                src={`../../img/value${value}.jpg`}
                 className="w-64 h-48 mx-auto rounded-xl shadow-lg object-cover"
               />
               <h3 className="text-2xl font-semibold text-gray-900 dark:text-white">
