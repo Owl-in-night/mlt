@@ -221,6 +221,8 @@ export default function ProductDetail() {
         t("serviceD.esp7.d3"),
         t("serviceD.esp7.d4"),
         t("serviceD.esp7.d5"),
+        t("serviceD.esp7.d6"),
+        t("serviceD.esp7.d7"),
       ],
       images: [
         {
@@ -253,6 +255,7 @@ export default function ProductDetail() {
         t("serviceD.esp8.d2"),
         t("serviceD.esp8.d3"),
         t("serviceD.esp8.d4"),
+        t("serviceD.esp8.d5"),
       ],
       images: [
         {
@@ -469,6 +472,7 @@ export default function ProductDetail() {
         t("serviceD.esp15.d2"),
         t("serviceD.esp15.d3"),
         t("serviceD.esp15.d4"),
+        t("serviceD.esp15.d5"),
       ],
       images: [
         {

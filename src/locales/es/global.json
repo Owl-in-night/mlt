@@ -162,18 +162,18 @@
       "d4": "Vehículos cómodos: Unidades con espacio suficiente y en buen estado.",
       "d5": "Aire acondicionado",
       "d6": "Ayuda con tus maletas",
-      "d7": "Panajachel a Antigua: 5:00 am, 9:00 am, 12:00 pm, 4:00 pm",
+      "d7": "Panajachel a Antigua: 5:00 am, 5:30 am, 9:00 am, 12:00 pm, 4:00 pm",
       "d8": "Antigua a Panajachel: 8:00 am, 12:30 pm, 4:00 pm",
       "d9": "Panajachel a Ciudad de Guatemala: 5:00 am, 9:00 am, 12:00 am, 4:00 am",
       "d10": "Ciudad de Guatemala a Panajachel: 6:00 am, 11:00 am, 2:00 pm",
       "d11": "Antigua a Ciudad de Guatemala: 4:00 am, 9:00 am, 12:30 am, 6:30 am",
       "d12": "Panajachel a Chichicastenango (dia de mercado) Jueves y Domingo: ida - 8:00 am (Q.75.00 p/p) / regreso - 2:00 pm (Q.75.00 p/p)",
-      "d13": "Panajachel a Quetzaltenango: 5:00 am, 3:00 pm",
-      "d14": "Panajachel a San Cristobal de las Casas México DF: 5:00 am",
-      "d15": "Panajachel a Cobán: 8:00 am (directa) / 5:00 am, 9:00 am (vía Ciudad de Guatemala)",
+      "d13": "Panajachel a Quetzaltenango: 5:00 am, 9:00 am, 3:00 pm",
+      "d14": "Panajachel a San Cristobal de las Casas México DF: 5:00 am, 6:00 am",
+      "d15": "Panajachel a Cobán - Lanquín: 7:30 am (directa) / 5:00 am, 9:00 am (vía Ciudad de Guatemala)",
       "d16": "Panajachel a Flores (vía Ciudad de Guatemala): 5:00 am, 9:00 am, 4:00 pm",
-      "d17": "Panajachel a Río Dulce: 5:00 am, 9:00 am, 12:00 pm",
-      "d18": "Panajachel al El Paredón: 9:00 am, 1:00 pm"
+      "d17": "Panajachel a Río Dulce: 5:00 am, 9:00 am.",
+      "d18": "Panajachel al El Paredón: 9:00 am (vía Antigua) duración aproximada del viaje 3.5 a 4 hrs, 1:00 pm (directa) duración aproximada del viaje 2.5 a 3 hrs"
     },
     "title3": "Shuttles privados",
     "description3": "Exclusividad y confort en cada viaje. Disfruta de un traslado privado y personalizado.",
@@ -204,9 +204,9 @@
     "esp4": {
       "d1": "Chalecos Salvavidas",
       "d2": "Ida y Regreso",
-      "d3": "Horarios Establecidos de Salida: 8:00 AM o 9:00 AM",
+      "d3": "Horarios Establecidos de Salida: 9:00 AM",
       "d4": "Tiempo en Cada Pueblo: 1.5 horas",
-      "d5": "Guía (Opcional): Algunos tours incluyen guía, otros no.",
+      "d5": "Incluye guía en todo el recorrido.",
       "d6": "Tour 3 Pueblos: Santiago Atitlán, San Pedro La Laguna y San Pedro la Laguna - ida: 9:00 AM - regreso: 3:00 PM"
     },
     "title5": "Tours en lancha (privada)",
@@ -263,7 +263,8 @@
       "d3": "Guía bilingüe exclusivo para Tikal",
       "d4": "Transporte desde Flores-Tikal-Flores",
       "d5": "Almuerzo en el parque (sin bebida)",
-      "d6": "No incluye hotel en Guatemala"
+      "d6": "No incluye hotel en Guatemala",
+      "d7": "Salidas diarias a las 6:00 AM con regreso a las 6:30 PM el mismo día."
     },
     "title8": "Tour Quetzaltenango",
     "description8": "Descubre la ciudad de los vientos eternos. Visita mercados artesanales, volcanes y sitios históricos.",
@@ -278,7 +279,8 @@
       "d1": "Transporte completo",
       "d2": "Entrada gratuita",
       "d3": "Relájese en las aguas termales (Fuentes Georginas)",
-      "d4": "Zunil, Maximon cofrade de almas ¡y más!"
+      "d4": "Zunil, Maximon cofrade de almas ¡y más!",
+      "d5": "Salidas diarias a las 8:00 AM con regreso a las 5:00 PM el mismo día."
     },
     "title9": "Volcán San Pedro",
     "description9": "Asciende al volcán San Pedro y disfruta de vistas panorámicas del Lago Atitlán.",
@@ -368,10 +370,11 @@
     "title15": "Cuatrimotos",
     "description15": "Embárcate en una emocionante aventura en cuatrimoto por los impresionantes paisajes de Guatemala. Siente la adrenalina mientras exploras la naturaleza más salvaje.",
     "esp15": {
-      "d1": "Tour Pro - con guía - Visita a 2 pueblos: Santa Catarina Palopo, San Antonio Palopó, San Antonio Palopó, La visita al Centro Cultural, Fabrica de chocolate, Miradores.",
-      "d2": "Tour Santa Catarina Palopó - con guía - Vista a 1 pueblo: Centro Cultural, Centro Cultural, Malecón, Aguas termales.",
-      "d3": "Tour mirador- con guia: Calle principal de Panajachel, Orillas del lago de Panajachel, Mirador.",
-      "d4": "Alquiler por una hora - sin guia"
+      "d1": "Tour Pro - con guía (es un extra) - El tour incluye cascos, lentes y, en caso de lluvia, también incluye capas - Visita a 2 pueblos: Santa Catarina Palopo, San Antonio Palopó, San Antonio Palopó, La visita al Centro Cultural, Fabrica de chocolate, Miradores.",
+      "d2": "Tour Santa Catarina Palopó - con guía (es un extra) - El tour incluye cascos, lentes y, en caso de lluvia, también incluye capas. - Vista a 1 pueblo: Centro Cultural, Centro Cultural, Malecón, Aguas termales.",
+      "d3": "Tour mirador - con guia (es un extra) - El tour incluye cascos, lentes y, en caso de lluvia, también incluye capas - Calle principal de Panajachel, Orillas del lago de Panajachel, Mirador.",
+      "d4": "Alquiler por una hora - sin guia",
+      "d5": "Nota: Menores de edad no manejan (si pueden ir de copilotos). Adultos deben contar con licencia o DPI"
     },
     "listB15": {
       "b1": "Aventura",
@@ -427,7 +430,8 @@
     "d18": "Navega por los tranquilos y hermosos paisajes de Guatemala en kayak. Descubre los secretos de la naturaleza mientras exploras lagos y ríos desde una perspectiva única.",
     "esp18": {
       "d1": "Se lleva a cabo en Bahía de San buenaventura",
-      "d2": "Se proporciona el equipo de seguridad adecuado"
+      "d2": "Se proporciona el equipo de seguridad adecuado",
+      "d3": "El servicio incluye transporte solo de ida, con horarios de salida de 6:00 AM a 12:00 PM (sujeto a clima), e incluye chalecos salvavidas."
     },
     "title19": "Motos acuáticas",
     "description19": "Alquila una moto acuática y siente la emoción de navegar por el lago. ¡Una experiencia increíble!",
