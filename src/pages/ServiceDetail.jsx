@@ -437,9 +437,9 @@ export default function ProductDetail() {
       id: 14,
       name: t("serviceD.title14"),
       especify: [
-        t("serviceD.esp13.d1"),
-        t("serviceD.esp13.d2"),
-        t("serviceD.esp13.d3"),
+        t("serviceD.esp14.d1"),
+        t("serviceD.esp14.d2"),
+        t("serviceD.esp14.d3"),
       ],
       images: [
         {
@@ -500,7 +500,7 @@ export default function ProductDetail() {
     {
       id: 16,
       name: t("serviceD.title16"),
-      especify: [t("serviceD.esp16.d1")],
+      especify: [t("serviceD.esp16.d1"),t("serviceD.esp16.d2"), t("serviceD.esp16.d3"),t("serviceD.esp16.d4"),t("serviceD.esp16.d5"), t("serviceD.esp16.d6")],
       images: [
         {
           src: "/img/img61.png",
@@ -739,6 +739,40 @@ export default function ProductDetail() {
         t("serviceD.listB23.b4"),
       ],
       details: t("serviceD.d23"),
+    },
+    {
+      id: 24,
+      name: t("serviceD.title24"),
+      especify: [
+        t("serviceD.esp24.d1"),
+        t("serviceD.esp24.d2"),
+        t("serviceD.esp24.d3"),
+        t("serviceD.esp24.d4"),
+        t("serviceD.esp24.d5"),
+        t("serviceD.esp24.d6"),
+      ],
+      images: [
+        {
+          src: "/img/bicic1.png",
+        },
+        {
+          src: "/img/bicic2.png",
+        },
+        {
+          src: "/img/bicic3.png",
+        },
+        {
+          src: "/img/bicic4.png",
+        },
+      ],
+      description: t("serviceD.description24"),
+      highlights: [
+        t("serviceD.listB24.b1"),
+        t("serviceD.listB24.b2"),
+        t("serviceD.listB24.b3"),
+        t("serviceD.listB24.b4"),
+      ],
+      details: t("serviceD.d24"),
     },
     // Otros productos...
   ];

@@ -128,7 +128,9 @@
     "title22": "Barcos",
     "subtitle22": "Descubre la belleza de Guatemala en nuestros barcos. Navega por el lago de Atitlán y disfruta de vistas panorámicas.",
     "title23": "Renta de casas",
-    "subtitle23": "Disfruta de una experiencia completa en una casa seleccionada en Panajachel por medio de Airbnb."
+    "subtitle23": "Disfruta de una experiencia completa en una casa seleccionada en Panajachel por medio de Airbnb.",
+    "title24": "Bicicables",
+    "subtitle24": "¡Vive la emoción de recorrer valle de San Buenaventura en bicicleta pero desde las alturas! Descubre nuevos caminos y paisajes impresionantes."
   },
   "serviceD": {
     "beneficios": "Beneficios",
@@ -391,11 +393,14 @@
       "b3": "Seguridad garantizada",
       "b4": "Conexión con la naturaleza"
     },
-    "d16": "Disfruta de un recorrido único sobre las copas de los árboles y descubre la majestuosidad de la selva guatemalteca desde una perspectiva increíble. ¡Una experiencia que te hará sentir en las alturas!",
+    "d16": "Disfruta de un recorrido único sobre las copas de los árboles y descubre la majestuosidad de la selva guatemalteca desde una perspectiva increíble. ¡Una experiencia que te hará sentir en las alturas! El costo incluye todos los atractivos de la reserva: Mariposario en el Geodomo, senderos, puentes colgantes, juegos para niños, orilla privada del lago, centro de visitantes.",
     "esp16": {
-      "d1": "Ultra Extremo: incluye tres cables que son los más largos por persona.",
-      "d2": "Extremo: incluye el recorrido en 1 cable extremo.",
-      "d3": "Horarios: 9:00 am, 11;00 am y 3:00 pm / Incluye transporte hacia el lugar"
+      "d1": "Ultra Extremo: Se cruza parte del valle e irá hasta la punta de la bahía de San Buenaventura, y de regreso pasará por el cafetal. Los cables ultra extremos tienen las vistas más espectaculares del largo y los cables más largos. La gira incluye una caminata por un camino de herradura utilizado antiguamente por comerciantes del Altiplano. Hay un límite de peso de 250 lbs en función de la velocidad de los cables",
+      "d2": "Extremo: Pasan por cataratas, cañones, el valle y el bosque del cafetal. En comparación con los Ultras, esta gira tiene una gran variedad de escenarios al cruzar partes pintorescas del valle. Estos cables son generalmente más cortes y, por lo tanto, buenos como introducción a las experiencias extremas.",
+      "d3": "El servicio de canopy solo se lleva a cabo en los siguientes horarios: 9:00 AM, 11:00 AM, 1:00 PM y 3:00 PM. Los clientes deben estar 40 minutos antes de la hora estipulada en la agencia. Además, incluye transporte desde nuestra agencia hasta el lugar del servicio solamente.",
+      "d4": "Especificaciones Cables Extremos: Número de cables: 8 Largo total: 1300 m Lardo de cables: 90 m a 320 m Altura máxima del cable: 25 m Duración de la gira: 1 hora y 30 minutos Largo del sendero a los cables: 450 m Ascenso vertical en el sendero: 80 m",
+      "d5": "Especificaciones Cables Ultra Extremos: Número de cables: 7, distancia total en cables: 2,381 m, largos de cables: 90 m a 860 m. Si leyó bien, es un gran jalón, altura máxima del cable: 55 m, tiempo de la gira: 1 hora y 50 minutos, largo del sendero a los cables: 900 m, ascenso vertical por el sendero: 136 m.",
+      "d6": "Cuerdas bajas: Tanto los cables extremos como los ultra extremos terminan en un campo de cuerdas bajas opcional. A ver si puede cruzar el río sobre delgados travesaños o tambalearse de un columpio a otro."
     },
     "title17": "Parapente",
     "esp17": {
@@ -503,6 +508,23 @@
       "d1": "Casa del Río, Panajachel: Capacidad para 10 personas, incluye 3 habitaciones, 4 camas matrimoniales, 1 sofá cama, sala, cocina equipada, comedor, balcón, 1 baño con tina, agua caliente, TV con cable, Wi-Fi y servicio de parqueo.",
       "d2": "Bungalows Casa Aine, Panajachel: Capacidad para 7 personas, incluye 2 habitaciones, la primera habitación con 2 camas matrimoniales y 1 cama imperial, TV con cable, la segunda habitación incluye 1 cama matrimonial, TV con cable, Wi-Fi, área verde, cocina equipada y servicio de parqueo.",
       "d3": "Apartamento en la Riviera de Atitlán: Incluye 2 habitaciones para 8 personas, cocina, sala, comedor, Wi-Fi, vista al lago, playa privada, incluye piscina climatizada y jacuzzi."
+    },
+    "title24": "Bicicables",
+    "description24": "Bicicables es una emocionante actividad que combina la sensación de volar con la diversión de andar en bicicleta. Consiste en un recorrido en bicicleta suspendida en cables de acero, que atraviesan el hermoso valle de San Buenaventura. El recorrido ofrece vistas panorámicas espectaculares del lago, los volcanes circundantes, cafetales y bosques de encino.",
+    "listB24": {
+      "b1": "Experiencia única y emocionante: Bicicables proporciona una descarga de adrenalina y una sensación de libertad incomparable.",
+      "b2": "Vistas panorámicas impresionantes: Disfruta de paisajes espectaculares del lago, los volcanes y la naturaleza circundante desde una perspectiva única.",
+      "b3": "Conexión con la naturaleza: Sumérgete en la belleza del entorno natural mientras disfrutas de la actividad.",
+      "b4": "Actividad para toda la familia: Bicicables es una actividad segura y divertida para personas de todas las edades."
+    },
+    "d24": "El recorrido en Bicicables tiene una duración aproximada de 20 minutos, el largo de cada cable es de 250 metros, y la altura máxima es de 18 metros. El sendero de acceso a los cables tiene una longitud de 200 metros, con un ascenso vertical de 37 metros. El servicio cuenta con guías experimentados que garantizan la seguridad de los participantes e incluye el uso de arneses de seguridad. El número de bicicletas que se utiliza por cada bicicable es de dos.",
+    "esp24": {
+      "d1": "Número de bicicletas: 3, dos para cada bicicable",
+      "d2": "Largo de cada cable: 250 m",
+      "d3": "Altura máxima del cable: 18 m",
+      "d4": "Duración de la gira: 20 minutos",
+      "d5": "Largo del sendero a los cables: 200 m",
+      "d6": "Ascenso vertical en el sendero: 37 m"
     }
   },
   "error": {

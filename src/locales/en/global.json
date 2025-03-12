@@ -1,41 +1,41 @@
 {
-    "navbar": {
-      "tagh": "Home",
-      "taga": "About Us",
-      "tagc": "Contact Us",
-      "tags": "Services"
-    },
-    "language": {
-      "es": "Español",
-      "en": "English",
-      "fr": "Français",
-      "hi": "हिन्दी",
-      "ch": "中文"
-    },
-    "home": {
-      "welcome": "Welcome to Milan Tours",
-      "eslogan": "Travel with us, travel safely!",
-      "button1": "View Services",
-      "button2": "More Information",
-      "vermas": "View More",
-      "title": "Your journey starts here!",
-      "card1": "The charm of each village",
-      "card2": "Shuttle Services",
-      "card3": "Boat Tours",
-      "card4": "Door-to-Door Transfers",
-      "card5": "Hiking",
-      "description1": "Each village around Lake Atitlán holds its own special charm, from colorful traditions to unique handicrafts, inviting you to discover the rich cultural diversity of Guatemala.",
-      "description2": "Travel comfortably and safely in our shuttles while exploring Guatemala's cultural and natural diversity.",
-      "description3": "Embark on an unforgettable adventure and explore the most beautiful corners of Lake Atitlán with our boat tours. Enjoy panoramic views of the volcanoes, visit picturesque villages, and immerse yourself in Mayan culture.",
-      "description4": "Discover the most popular destinations with our convenient scheduled transfers. Travel comfortably and safely, without worrying about a thing.",
-      "description5": "Explore hidden trails and enjoy breathtaking landscapes on our guided hiking tours. Our expert guides will take you along safe routes and provide all the necessary information for a unique experience.",
-      "header1": "We are your best choice to explore Guatemala",
-      "title2": "Guaranteed Adventures",
-      "subtitle2": "Discover the soul of Guatemala with us. Are you ready to live an unforgettable experience? From majestic mountains to paradise beaches, Guatemala welcomes you with open arms. Our agency in Panajachel offers a wide variety of tours and packages so you can explore this beautiful country at your own pace. Can you imagine sailing on the crystal-clear waters of Lake Atitlán, exploring ancient Mayan ruins, or just relaxing on a white sand beach? With us, every trip is a unique adventure. Book now and start creating unforgettable memories!",
-      "header2": "Your Safety First",
-      "title3": "We Care About Your Safety",
-      "subtitle3": "Your safety is our priority. At Milan Tours, we are committed to providing you with a calm and safe journey. We have local expert guides who know every destination perfectly, as well as secure and reliable vehicles. Relax and enjoy your adventure, knowing that we are taking care of you."
-    },
+  "navbar": {
+    "tagh": "Home",
+    "taga": "About Us",
+    "tagc": "Contact Us",
+    "tags": "Services"
+  },
+  "language": {
+    "es": "Spanish",
+    "en": "English",
+    "fr": "French",
+    "hi": "Hindi",
+    "ch": "Chinese"
+  },
+  "home": {
+    "welcome": "Welcome to Milan Tours",
+    "eslogan": "Travel with us, travel safe!",
+    "button1": "View services",
+    "button2": "More information",
+    "vermas": "See more",
+    "title": "Your journey starts here!",
+    "card1": "Charms of each village",
+    "card2": "Boat tours (public)",
+    "card3": "ATVs",
+    "card4": "Door-to-door transfer",
+    "card5": "Boats",
+    "description1": "Each village around Lake Atitlán holds a special charm, from colorful traditions to unique crafts, inviting you to discover Guatemala's rich cultural diversity.",
+    "description2": "Explore the villages around Lake Atitlán on our shared boats and discover their charms.",
+    "description3": "Adventure on wheels! Enjoy an exciting ATV tour.",
+    "description4": "Discover the most popular destinations with our convenient scheduled transfers. Travel in comfort and safety, without worrying about anything else.",
+    "description5": "Discover the beauty of Guatemala on our boats. Sail across Lake Atitlán and enjoy panoramic views.",
+    "header1": "We are your best choice to explore Guatemala",
+    "title2": "Guaranteed adventures",
+    "subtitle2": "Discover the soul of Guatemala with us. Are you ready to live an unforgettable experience? From majestic mountains to paradise beaches, Guatemala awaits you with open arms. Our agency in Panajachel offers a wide variety of tours and packages for you to explore this beautiful country at your own pace. Can you imagine sailing through the crystal-clear waters of Lake Atitlán, exploring ancient Mayan ruins, or simply relaxing on a white sand beach? With us, every trip is a unique adventure. Book now and start creating unforgettable memories!",
+    "header2": "Your safety comes first",
+    "title3": "We care about your safety",
+    "subtitle3": "Your safety is our priority. At Milan Tours, we are committed to providing you with a peaceful and safe journey. We have local expert guides who know each destination perfectly, safe and reliable vehicles. Relax and enjoy your adventure, knowing that we are taking care of you."
+  },
   "about": {
     "title": "About Us",
     "description": "We are a company committed to providing the best transportation service, ensuring comfort, safety, and punctuality on every trip.",
@@ -45,465 +45,491 @@
     "button1": "Home",
     "button2": "Services",
     "button3": "Contact Us",
-    "descriptionPlatform": "At Milan Tours, our mission is to offer unforgettable experiences to every traveler who wishes to discover the magic of Guatemala. Located in the heart of Panajachel, on the shores of the majestic Lake Atitlán, we specialize in providing transportation services, personalized tours, and adventure activities that combine safety, comfort, and cultural authenticity.",
-    "extraInfoPlatform": "Our passion is connecting people with the essence of Guatemala, offering safe, exciting, and unforgettable travel experiences.",
+    "descriptionPlatform": "At Milan Tours, our mission is to offer unforgettable experiences to every traveler who wishes to discover the magic of Guatemala. Located in the heart of Panajachel, on the shores of the majestic Lake Atitlán, we specialize in providing transfer services, personalized tours, and adventure activities that combine safety, comfort, and cultural authenticity.",
+    "extraInfoPlatform": "Our passion is to connect people with the essence of Guatemala, offering safe, exciting trips filled with unforgettable moments.",
     "buttonPlatform": "Services",
     "titleHistory": "Our History",
-    "descriptionHistory": "Since our beginnings in Guatemala, we have passionately worked to design unique experiences that allow travelers to discover the country's essence, its natural wealth, and the warmth of its people. Today, Milan Tours is synonymous with trust and quality in the tourism industry.",
-    "extraInfoHistory": "Our commitment goes beyond offering tours; we want every trip to be an authentic adventure filled with unforgettable moments. We strive to provide exceptional service, ensuring that every detail makes your experience special.",
+    "descriptionHistory": "Guatemala. Since our beginnings, we have worked passionately to design unique experiences that allow visitors to discover the essence of the country, its natural wealth, and the warmth of its people. Today, Milan Tours is synonymous with trust and quality in the tourism industry.",
+    "extraInfoHistory": "Our commitment goes beyond offering tours; we want each journey to be an authentic adventure filled with unforgettable moments. We strive to provide exceptional service, ensuring that every detail makes your experience special.",
     "coreValuesTitle": "Our Values",
-    "coreValuesDescription": "At Milan Tours, our essence is based on providing authentic experiences that connect people with the beauty and cultural richness of Guatemala. Our mission is to be the bridge between travelers and the wonders of our country, ensuring every detail so that their adventures are unforgettable, safe, and comfortable. We believe in sustainable tourism that respects and enriches both our visitors and local communities.",
+    "coreValuesDescription": "At Milan Tours, our essence is based on providing authentic experiences that connect people with the beauty and cultural richness of Guatemala. Our mission is to be the bridge between travelers and the wonders of our country, ensuring every detail so that your adventures are unforgettable, safe, and comfortable. We believe in sustainable tourism that respects and enriches both our visitors and the local communities.",
     "value1Title": "Passion for Guatemala",
     "value2Title": "Safety and Reliability",
     "value3Title": "Authenticity",
     "value1Description": "We are driven by pride in our country. Every experience we offer is designed to highlight the culture, nature, and traditions that make Guatemala unique.",
     "value2Description": "The peace of mind of our clients is our priority. We strive to offer safe, reliable, and professional services at every stage of the journey.",
     "value3Description": "We promote genuine experiences that connect travelers with the essence of Guatemala. From cultural tours to adventure activities, every detail reflects authenticity and respect for local communities."
-},
+  },
   "contact": {
     "title": "Connect with Milan Tours!",
     "subtitle": "Get in touch with us and discover how we can make your trip an unforgettable experience.",
-    "card1.title": "Quick and Personalized Assistance",
-    "card1.description": "Contact us and receive immediate support.",
-    "card2.title": "Visit Us",
-    "card2.description": "Need more information? You can visit us, we’ll be happy to assist you.",
+    "card1.title": "Quick and personalized attention",
+    "card1.description": "Contact us and get immediate assistance",
+    "card2.title": "Visit us",
+    "card2.description": "Need more information? You can visit us, we would be happy to assist you",
     "card2.button": "Location",
-    "socialMediaTitle": "You can also reach us through our social media!"
-  } ,
-    "services": {
-    "title": "Our Services",
+    "socialMediaTitle": "You can also contact us through our social media!"
+  },
+  "services": {
+    "title": "Our services",
     "subtitle": "Discover the magic of Guatemala with Milan Tours. Located in the heart of Panajachel, we invite you to experience a unique and personalized adventure. Our team of local experts will help you create the perfect itinerary to explore the natural and cultural wonders of this beautiful country at your own pace.",
     "header": {
       "title1": "Paragliding",
-      "title2": "Tikal National Park Tour",
-      "title3": "Private Boat Tour",
-      "title4": "All Our Services",
+      "title2": "Tour to Tikal National Park",
+      "title3": "Private boat tour",
+      "title4": "All our services",
       "subtitle1": "Services",
       "subtitle2": "Destinations",
-      "subtitle3": "Different Schedules",
-      "subtitle4": "Types of Transportation"
+      "subtitle3": "Different schedules",
+      "subtitle4": "Types of transport"
     },
+    "title1": "Currency exchange",
+    "subtitle1": "The best exchange rate awaits you! Exchange your dollars and euros to quetzals and maximize your budget.",
+    "title2": "Door-to-door transfer service",
+    "subtitle2": "Travel worry-free! We take you to any corner of Guatemala with comfort and punctuality.",
+    "title3": "Private shuttles",
+    "subtitle3": "Exclusivity and comfort on every trip. Enjoy a private and personalized transfer.",
+    "title4": "Public boat tours",
+    "subtitle4": "Explore the towns around Lake Atitlán on our shared boats and discover their charms.",
+    "title5": "Private boat tours",
+    "subtitle5": "Lake adventure! Enjoy water activities like canopy, paragliding, and hiking.",
+    "title6": "Charm of each town",
+    "subtitle6": "Immerse yourself in Mayan culture and discover the traditions of each town.",
+    "title7": "Tikal National Park tour",
+    "subtitle7": "Experience the Maya jungle. Explore ancient ruins and the rich biodiversity of Tikal.",
+    "title8": "Quetzaltenango tour",
+    "subtitle8": "Discover the city of eternal winds. Visit artisan markets, volcanoes, and historic sites.",
+    "title9": "San Pedro Volcano",
+    "subtitle9": "Climb San Pedro volcano and enjoy panoramic views of Lake Atitlán.",
+    "title10": "Bus tickets",
+    "subtitle10": "Travel comfortably and safely in our buses. Book your tickets now!",
+    "title11": "Pullman Guatemala - El Salvador",
+    "subtitle11": "Connect Guatemala and El Salvador in our comfortable Pullman buses.",
+    "title12": "Bicycles",
+    "subtitle12": "Explore the surroundings by bike. Rent one and discover new paths.",
+    "title13": "National and international flights",
+    "subtitle13": "Book your national and international flights with us and travel without complications.",
+    "title14": "Hiking tours",
+    "subtitle14": "Explore natural trails and discover the beauty of Guatemala.",
+    "title15": "ATVs",
+    "subtitle15": "Adventure on wheels! Enjoy an exciting ATV tour.",
+    "title16": "Canopy",
+    "subtitle16": "Fly above the jungle and feel the adrenaline.",
+    "title17": "Paragliding",
+    "subtitle17": "Enjoy panoramic views of the lake and volcanoes while paragliding.",
+    "title18": "Transparent kayaks",
+    "subtitle18": "Watch marine life in transparent kayaks. A unique experience!",
+    "title19": "Jet skis",
+    "subtitle19": "Rent a jet ski and feel the excitement of navigating the lake.",
+    "title20": "Birdwatching",
+    "subtitle20": "Observe a wide variety of birds in their natural habitat.",
+    "title21": "Moto taxi tour (Tuk tuk)",
+    "subtitle21": "Tour the city in a fun moto-taxi and discover its most authentic corners.",
+    "title22": "Boats",
+    "subtitle22": "Discover the beauty of Guatemala on our boats. Sail on Lake Atitlán and enjoy panoramic views.",
+    "title23": "House rentals",
+    "subtitle23": "Enjoy a complete experience in a selected house in Panajachel through Airbnb.",
+    "title24": "Zip lines",
+    "subtitle24": "Experience the thrill of cycling through the valley of San Buenaventura, but from the heights! Discover new paths and breathtaking landscapes."
+  },
+  "serviceD": {
+    "beneficios": "Benefits",
+    "detalles": "Details",
+    "espe": "More information",
     "title1": "Currency Exchange",
-  "subtitle1": "Get the best exchange rate! Exchange your dollars and euros for quetzales and maximize your budget.",
-  "title2": "Door-to-Door Transfer Service",
-  "subtitle2": "Travel worry-free! We take you to any corner of Guatemala with comfort and punctuality.",
-  "title3": "Private Shuttles",
-  "subtitle3": "Exclusivity and comfort in every trip. Enjoy a private and personalized transfer.",
-  "title4": "Boat Tours (Public)",
-  "subtitle4": "Travel through the villages of Lake Atitlán on our shared boats and discover their charm.",
-  "title5": "Boat Tours (Private)",
-  "subtitle5": "Adventure on the lake! Enjoy water activities like canopy, paragliding, and hiking.",
-  "title6": "The Charm of Each Village",
-  "subtitle6": "Immerse yourself in Mayan culture and discover the traditions of each village.",
-  "title7": "Tikal National Park Tour",
-  "subtitle7": "Experience a unique adventure in the Mayan jungle. Explore ancient ruins and the rich biodiversity of Tikal.",
-  "title8": "Quetzaltenango Tour",
-  "subtitle8": "Discover the city of eternal winds. Visit artisan markets, volcanoes, and historical sites.",
-  "title9": "San Pedro Volcano",
-  "subtitle9": "Climb San Pedro Volcano and enjoy panoramic views of Lake Atitlán.",
-  "title10": "Bus Tickets",
-  "subtitle10": "Travel comfortably and safely on our buses. Book your tickets now!",
-  "title11": "Pullman Guatemala - El Salvador",
-  "subtitle11": "Connect Guatemala and El Salvador on our comfortable Pullman buses.",
-  "title12": "Bicycles",
-  "subtitle12": "Explore the surroundings by bike. Rent one and discover new paths.",
-  "title13": "Domestic and International Flights",
-  "subtitle13": "Book your domestic and international flights with us and travel hassle-free.",
-  "title14": "Hiking Tours",
-  "subtitle14": "Hike through natural trails and discover the beauty of Guatemala.",
-  "title15": "ATVs",
-  "subtitle15": "Adventure on wheels! Enjoy an exciting ATV ride.",
-  "title16": "Canopy",
-  "subtitle16": "Fly above the jungle and feel the adrenaline.",
-  "title17": "Paragliding",
-  "subtitle17": "Enjoy panoramic views of the lake and volcanoes while paragliding.",
-  "title18": "Transparent Kayaks",
-  "subtitle18": "Observe marine life in transparent kayaks. A unique experience!",
-  "title19": "Jet Skis",
-  "subtitle19": "Rent a jet ski and feel the thrill of navigating the lake.",
-  "title20": "Bird Watching",
-  "subtitle20": "Observe a wide variety of birds in their natural habitat.",
-  "title21": "Moto Taxi Tour (Tuk Tuk)",
-  "subtitle21": "Tour the city in a fun moto taxi and discover its most authentic corners.",
-  "title22": "Boats",
-  "subtitle22": "Experience the beauty of Guatemala on our boats. Sail across Lake Atitlán and enjoy breathtaking views.",
-  "title23": "House Rentals",
-  "subtitle23": "Enjoy a complete experience in a carefully selected home in Panajachel through Airbnb."
-  },  
-    "serviceD": {
-        "beneficios": "Benefits",
-        "detalles": "Details",
-        "espe": "More Information",
-        "title1": "Currency Exchange",
-        "description1": "Exchange your money quickly and safely. We offer the best market rates.",
-        "listB": {
-            "b1": "Competitive exchange rates",
-            "b2": "Fast and secure transactions",
-            "b3": "Peace of mind and trust",
-            "b4": "Convenience and location"
-        },
-        "d1": "Exchange your dollars and euros for quetzales at the best rates. Enjoy a fast and reliable service for your currency exchange needs.",
-        "esp1": {
-            "d1": "It is important to mention that in order to exchange money, it must be in acceptable condition."
-        },
-        "title2": "Door-to-Door Transfer Service",
-        "description2": "Your journey starts here! Enjoy the convenience of being picked up and dropped off at your hotel, airport, or any destination. Our professional drivers ensure a safe and punctual trip tailored to your needs.",
-        "listB2": {
-            "b1": "Professional drivers",
-            "b2": "Safety and punctuality",
-            "b3": "Convenience and comfort",
-            "b4": "Personalized service"
-        },
-        "d2": "Our door-to-door transfer service provides comfortable and safe transportation between popular destinations in Guatemala and Mexico, with professional drivers and air-conditioned vehicles. Travel worry-free with our service tailored to your schedules and destinations!",
-        "esp2": {
-            "d1": "Regular service: Scheduled departures to popular destinations with pre-set times.",
-            "d2": "Fixed routes: Established routes that include transfers to your hotel or accommodation.",
-            "d3": "Professional driver: Trained personnel for a safe trip.",
-            "d4": "Comfortable vehicles: Spacious and well-maintained units.",
-            "d5": "Air conditioning",
-            "d6": "Assistance with luggage",
-            "d7": "Panajachel to Antigua: 5:00 AM, 9:00 AM, 12:00 PM, 4:00 PM",
-            "d8": "Antigua to Panajachel: 8:00 AM, 12:30 PM, 4:00 PM",
-            "d9": "Panajachel to Guatemala City: 5:00 AM, 9:00 AM, 12:00 AM, 4:00 AM",
-            "d10": "Guatemala City to Panajachel: 6:00 AM, 11:00 AM, 2:00 PM",
-            "d11": "Antigua to Guatemala City: 4:00 AM, 9:00 AM, 12:30 AM, 6:30 AM",
-            "d12": "Panajachel to Chichicastenango (market day) Thursday and Sunday: Departure - 8:00 AM (Q.75.00 p/p) / Return - 2:00 PM (Q.75.00 p/p)",
-            "d13": "Panajachel to Quetzaltenango: 5:00 AM, 3:00 PM",
-            "d14": "Panajachel to San Cristobal de las Casas, Mexico DF: 5:00 AM",
-            "d15": "Panajachel to Cobán: 8:00 AM (direct) / 5:00 AM, 9:00 AM (via Guatemala City)",
-            "d16": "Panajachel to Flores (via Guatemala City): 5:00 AM, 9:00 AM, 4:00 PM",
-            "d17": "Panajachel to Río Dulce: 5:00 AM, 9:00 AM, 12:00 PM",
-            "d18": "Panajachel to El Paredón: 9:00 AM, 1:00 PM"
-        },
-        "title3": "Private Shuttles",
-        "description3": "Exclusivity and comfort on every trip. Enjoy a private and personalized transfer.",
-        "listB3": {
-            "b1": "Exclusivity and comfort",
-            "b2": "Professional drivers",
-            "b3": "Safety and punctuality",
-            "b4": "Convenience and comfort"
-        },
-        "d3": "Our private shuttles offer the best experience in exclusive travel. Enjoy a comfortable and secure transfer with personalized attention.",
-        "esp3": {
-            "d1": "Exclusive service: Private trip for you and your companions, with the option to return to the departure location regardless of the route.",
-            "d2": "Personalized routes: Flexibility in schedule and pickup/drop-off location.",
-            "d3": "Professional driver: Trained driver to ensure your safety and comfort.",
-            "d4": "Modern and well-equipped vehicles: Recent, comfortable, and safe units with a capacity of up to 13 people.",
-            "d5": "Air conditioning: For a fresh and pleasant trip.",
-            "d6": "Stops available"
-        },
-        "title4": "Public Boat Tours",
-        "description4": "Discover the beauty of Guatemala with our boat tours. Explore the jungle, discover volcanoes, and live an unforgettable experience.",
-        "listB4": {
-            "b1": "Expert guides",
-            "b2": "Accessibility",
-            "b3": "Shared experience",
-            "b4": "Natural beauty"
-        },
-        "d4": "Embark on our public boat tours and explore Guatemala’s most beautiful corners, surrounded by nature and great company.",
-        "esp4": {
-            "d1": "Life Jackets",
-            "d2": "Round Trip",
-            "d3": "Fixed Departure Times: 8:00 AM or 9:00 AM",
-            "d4": "Time in Each Town: 1.5 hours",
-            "d5": "Guide (Optional): Some tours include a guide, others do not.",
-            "d6": "3-Town Tour: Santiago Atitlán, San Pedro La Laguna, and San Pedro La Laguna - Departure: 9:00 AM - Return: 3:00 PM"
-        },
-        "title5": "Private Boat Tours",
-        "description5": "Discover the beauty of Guatemala with our private boat tours. Explore the jungle, discover volcanoes, and live an unforgettable experience.",
-        "listB5": {
-            "b1": "Exclusive tour",
-            "b2": "Personalized guides",
-            "b3": "Private routes",
-            "b4": "Total comfort"
-        },
-        "d5": "Enjoy a private boat tour, where you can explore Guatemala exclusively and personally, tailored to your interests.",
-        "esp5": {
-            "d1": "Private Boat: Round trip with all the comfort.",
-            "d2": "Flexible Schedule: Choose the starting time (7:00 AM - 5:00 PM). Additional charge for tours outside this schedule.",
-            "d3": "Time to Explore: We adapt to your pace.",
-            "d4": "Life Jackets: Safety is our priority.",
-            "d5": "Great Atmosphere: Music, laughter, and guaranteed fun.",
-            "d6": "Seats with Backrest: Relax and enjoy the scenery comfortably.",
-            "d7": "Regular Schedule: From 7:00 AM to 5:00 PM.",
-            "d8": "1-Town Tour: Choose one of the 14 towns in Sololá, and we take you there. Includes round trip. We adapt to your time. Does not include a guide. Departure at any time (7:00 AM to 5:00 PM).",
-            "d9": "3-Town Tour: San Juan la Laguna, Santiago Atitlán, and San Pedro La Laguna. Does not include a guide. Departure at any time (7:00 AM to 5:00 PM).",
-            "d10": "3-Town Tour: Santiago Atitlán, San Juan la Laguna, and San Juan la Laguna. Departure at any time (7:00 AM to 5:00 PM). Includes a bilingual guide throughout the tour.",
-            "d11": "3-Town Tour: San Lucas Tolimán, San Lucas Tolimán, and Santiago Atitlán. Departure at any time (7:00 AM to 5:00 PM). Includes a bilingual guide throughout the tour.",
-            "d12": "Medium Tour: Hot Springs, Hot Springs, and San Antonio Palopo. Departure at any time (7:00 AM to 5:00 PM). Includes a bilingual guide throughout the tour.",
-            "d13": "4-Town Tour: San Marcos la Laguna, San Juan la Laguna, San Juan la Laguna, and San Pedro la Laguna. Departure at any time (7:00 AM to 5:00 PM)."
-        },
-        "title6": "The Charm of Each Town",
-        "description6": "Immerse yourself in Mayan culture and discover the traditions of each town.",
-        "listB6": {
-            "b1": "Mayan culture",
-            "b2": "Local history",
-            "b3": "Handicrafts",
-            "b4": "Living traditions"
-        },
-        "d6": "Travel through the towns of Guatemala and connect with Mayan culture, its traditions, and the rich history of each place.",
-        "esp6": {
-            "d1": "Adventures: You will have the opportunity to experience unforgettable moments in each town.",
-            "d2": "Culture: Discover Mayan culture and its traditional customs.",
-            "d3": "Handicrafts: Explore local handicrafts and enjoy handmade products.",
-            "d4": "History: Learn about the history of each town and its past."
-        },
-        "title7": "Tikal National Park Tour",
-        "description7": "Experience a unique adventure in the Mayan jungle. Explore ancient ruins and the rich biodiversity of Tikal.",
-        "listB7": {
-            "b1": "Unique biodiversity",
-            "b2": "Ancient ruins",
-            "b3": "Mayan history",
-            "b4": "Jungle hiking"
-        },
-        "d7": "Venture into the jungle of Tikal, an archaeological and natural site where you can explore ancient ruins, enjoy biodiversity, and connect with Mayan history.",
-        "esp7": {
-            "d1": "Hotel-to-airport transportation in Guatemala",
-            "d2": "Round-trip flight ticket Guatemala-Flores-Guatemala",
-            "d3": "Exclusive bilingual guide for Tikal",
-            "d4": "Transportation from Flores-Tikal-Flores",
-            "d5": "Lunch in the park (excluding drinks)",
-            "d6": "Hotel in Guatemala not included"
-        },
-        "title8": "Quetzaltenango Tour",
-        "description8": "Discover the city of eternal winds. Visit artisan markets, volcanoes, and historical sites.",
-        "listB8": {
-            "b1": "Local culture",
-            "b2": "Colonial history",
-            "b3": "Artisan markets",
-            "b4": "Volcanic landscapes"
-        },
-        "d8": "Explore Quetzaltenango, the city of eternal winds, and immerse yourself in its history, local art, and stunning volcanic landscapes.",
-        "esp8": {
-            "d1": "Complete transportation",
-            "d2": "Free entrance",
-            "d3": "Relax in the hot springs (Fuentes Georginas)",
-            "d4": "Zunil, Maximon - soul guardian, and more!"
-        },
-        "title9": "San Pedro Volcano",
-        "description9": "Hike up San Pedro Volcano and enjoy panoramic views of Lake Atitlán.",
-        "listB9": {
-            "b1": "Challenging hike",
-            "b2": "Stunning views",
-            "b3": "Biodiversity",
-            "b4": "Connection with nature"
-        },
-        "d9": "Climb the imposing San Pedro Volcano and enjoy spectacular views of Lake Atitlán. A challenge for hiking and nature lovers.",
-        "esp9": {
-            "d1": "Transportation from your hotel to the public dock.",
-            "d2": "Boat from Panajachel to San Pedro and back.",
-            "d3": "Breakfast",
-            "d4": "Includes a guide"
-        },
-        "title10": "Bus Tickets",
-        "description10": "Travel comfortably and safely on our buses. Book your tickets now!",
-        "listB10": {
-            "b1": "Comfort",
-            "b2": "Safety",
-            "b3": "Accessibility",
-            "b4": "Variety of routes"
-        },
-        "d10": "Our buses offer a comfortable and safe journey, with routes that connect you easily and quickly. Book your ticket and travel with us!",
-        "esp10": {
-            "d1": "Panajachel - Flores - Tikal",
-            "d2": "Panajachel - Comitán",
-            "d3": "Panajachel - La Mesilla",
-            "d4": "Panajachel - Huehuetenango"
-        },
-        "title11": "Pullman Guatemala - El Salvador",
-        "description11": "Comfortable and safe transportation on every trip, with daily departures.",
-        "listB11": {
-            "b1": "Punctuality",
-            "b2": "Safety",
-            "b3": "Comfort",
-            "b4": "Daily connection"
-        },
-        "d11": "Travel between Guatemala and El Salvador with comfort and safety. Enjoy the scenery while traveling with us every day.",
-        "esp11": {
-            "d1": "Tourist - Departure: 6:00 AM",
-            "d2": "Executive Class - Departure: 2:00 PM (Double decker with sleeping seats)"
-        },
-        "title12": "Bicycles",
-        "description12": "Come and enjoy bike rides, discovering unforgettable landscapes along the way.",
-        "listB12": {
-            "b1": "Incredible views",
-            "b2": "Fun",
-            "b3": "Customized routes",
-            "b4": "Healthy exercise"
-        },
-        "d12": "Explore Guatemala on two wheels, enjoying breathtaking landscapes while getting some exercise and having a unique experience.",
-        "esp12": {
-            "d1": "Includes guide",
-            "d2": "Bicycle",
-            "d3": "Safety equipment"
-        },
-        "title13": "Domestic and International Flights",
-        "description13": "Book your domestic and international flights with us and travel worry-free.",
-        "listB13": {
-            "b1": "Variety of destinations",
-            "b2": "Competitive prices",
-            "b3": "Flexible changes",
-            "b4": "Personalized attention"
-        },
-        "d13": "Reach your destination safely and comfortably, whether within Guatemala or around the world. With our wide range of flights, making your next trip a reality is easier than ever.",
-        "esp13": {
-            "d1": "Purchase management",
-            "d2": "Flight tracking",
-            "d3": "Flight itinerary"
-        },
-        "title14": "Hiking",
-        "description14": "Embark on a hiking adventure through the stunning landscapes of Guatemala. Explore mountains, forests, and volcanoes while connecting with nature.",
-        "listB14": {
-            "b1": "Breathtaking landscapes",
-            "b2": "Routes for all levels",
-            "b3": "Expert guides",
-            "b4": "Connection with nature"
-        },
-        "d14": "Experience an unforgettable journey through Guatemala's trails, surrounded by incredible biodiversity and landscapes that will leave you speechless. Nature awaits you!",
-        "esp14": {
-            "d1": "San Pedro Volcano Tour: Guide, round-trip boat, breakfast and lunch, park entrance, local transportation in San Pedro to reach the park.",
-            "d2": "Nariz del Indio Tour (San Juan La Laguna): Round-trip transportation, guide, entrance, morning coffee or tea.",
-            "d3": "Altar Maya Tour (San Jorge and Sololá): Transportation, guide, entrances, light snack."
-        },
-        "title15": "ATVs",
-        "description15": "Embark on an exciting ATV adventure through the breathtaking landscapes of Guatemala. Feel the adrenaline rush as you explore the wildest nature.",
-        "esp15": {
-            "d1": "Pro Tour - with guide - Visit 2 towns: Santa Catarina Palopó, San Antonio Palopó. Includes visits to the Cultural Center, Chocolate Factory, and scenic viewpoints.",
-            "d2": "Santa Catarina Palopó Tour - with guide - Visit 1 town: Cultural Center, Boardwalk, Hot Springs.",
-            "d3": "Viewpoint Tour - with guide: Main street of Panajachel, Panajachel lakeshore, Scenic Viewpoint.",
-            "d4": "One-hour rental - without guide"
-        },
-        "listB15": {
-            "b1": "Adventure",
-            "b2": "Safety",
-            "b3": "Adapted routes",
-            "b4": "Outdoor fun"
-        },
-        "d15": "Enjoy an exhilarating ATV experience while exploring Guatemala’s wild beauty, from volcanoes to jungles.",
-        "title16": "Canopy",
-        "description16": "Fly through the treetops and enjoy a unique view of the Guatemalan jungle on our canopy tours. An adventure filled with adrenaline and nature!",
-        "listB16": {
-            "b1": "High-altitude adventure",
-            "b2": "Spectacular views",
-            "b3": "Guaranteed safety",
-            "b4": "Connection with nature"
-        },
-        "d16": "Enjoy a unique experience soaring above the treetops and discover the majesty of the Guatemalan jungle from an incredible perspective. An adventure that will make you feel on top of the world!",
-        "esp16": {
-            "d1": "Ultra Extreme: Includes three of the longest cables per person.",
-            "d2": "Extreme: Includes a tour on one extreme cable.",
-            "d3": "Schedules: 9:00 AM, 11:00 AM, and 3:00 PM / Includes transportation to the site."
-        },
-        "title17": "Paragliding",
-        "esp17": {
-            "d1": "Flight schedules: Available from 7:00 AM to 4:00 PM.",
-            "d2": "Minimum age: 5 years old and up.",
-            "d3": "Maximum weight: 230 lbs.",
-            "d4": "Recommended clothing: Wear sportswear for better comfort.",
-            "d5": "Flight duration: Approximately 15 to 30 minutes, subject to weather conditions.",
-            "d6": "Includes: An expert guide who will accompany you throughout the flight.",
-            "d7": "Safety equipment: All necessary equipment is provided for a safe and exciting experience.",
-            "d8": "The price includes transportation from our travel agency in Panajachel to the take-off area.",
-            "d9": "Payment must be made in advance to secure your spot.",
-            "d10": "Paragliding is considered an extreme sport, and you will be flying at your own risk.",
-            "d11": "Discounts available for groups of more than 5 people."
-        },
-        "description17": "Enjoy panoramic views of the lake and volcanoes while paragliding. An irresistible experience!",
-        "listB17": {
-            "b1": "Spectacular views",
-            "b2": "Guaranteed safety",
-            "b3": "Connection with nature",
-            "b4": "Convenience"
-        },
-        "d17": "Soar over the lake and volcanoes, enjoying panoramic views that only paragliding can offer. An exciting and irresistible experience!",
-        "title18": "Transparent Kayaks",
-        "description18": "Embark on an exciting kayak journey through Guatemala’s stunning landscapes. Feel the adrenaline rush as you explore the wildest nature.",
-        "listB18": {
-            "b1": "Comfort",
-            "b2": "Safety",
-            "b3": "Adapted routes",
-            "b4": "Personalized adventure"
-        },
-        "d18": "Paddle through Guatemala’s calm and beautiful waters in a kayak. Discover nature’s secrets while exploring lakes and rivers from a unique perspective.",
-        "esp18": {
-            "d1": "Takes place in San Buenaventura Bay.",
-            "d2": "Proper safety equipment is provided."
-        },
-        "title19": "Jet Skis",
-        "description19": "Rent a jet ski and feel the thrill of speeding across the lake. An incredible experience!",
-        "listB19": {
-            "b1": "Comfort",
-            "b2": "Safety",
-            "b3": "Speed and adrenaline",
-            "b4": "Guaranteed fun"
-        },
-        "d19": "Feel the ultimate thrill as you ride across Guatemala’s waters on a jet ski. An adrenaline-packed experience!",
-        "esp19": {
-            "d1": "Swappable options available.",
-            "d2": "Proper safety equipment is provided."
-        },
-        "title20": "Bird Watching",
-        "description20": "Observe a wide variety of birds in their natural habitat. An irresistible experience!",
-        "listB20": {
-            "b1": "Diverse species",
-            "b2": "Expert guides",
-            "b3": "Connection with nature",
-            "b4": "Peaceful landscapes"
-        },
-        "d20": "Enjoy a unique experience while observing birds in their natural habitat. Guatemala's biodiversity will amaze you.",
-        "esp20": {
-            "d1": "Guide included",
-            "d2": "Takes place in Santiago Atitlán"
-        },
-        "title21": "Tuk-Tuk Tour",
-        "description21": "Enjoy a tuk-tuk tour and discover the most beautiful corners of Guatemala. Explore Guatemala’s beauty with us!",
-        "listB21": {
-            "b1": "Comfort",
-            "b2": "Safety",
-            "b3": "Accessibility",
-            "b4": "Personalized tour"
-        },
-        "d21": "Explore Guatemala’s charms uniquely in a tuk-tuk. A ride filled with history, culture, and stunning landscapes.",
-        "esp21": {
-            "d1": "Pro Tour - with guide - Visit 2 towns: Santa Catarina Palopó, San Antonio Palopó. Includes visits to the Cultural Center, Chocolate Factory, and scenic viewpoints.",
-            "d2": "Santa Catarina Palopó Tour - with guide - Visit 1 town: Cultural Center, Boardwalk, Hot Springs.",
-            "d3": "Viewpoint Tour - with guide: Main street of Panajachel, Panajachel lakeshore, Scenic Viewpoint."
-        },
-        "title22": "Boats on Lake Atitlán",
-        "description22": "Experience a unique adventure sailing on the breathtaking Lake Atitlán. Enjoy spectacular landscapes while engaging in your dream activity on the lake.",
-        "listB22": {
-            "b1": "Music onboard",
-            "b2": "Life jackets",
-            "b3": "Activities along the journey",
-            "b4": "Unforgettable moments"
-        },
-        "d22": "Sail through the crystal-clear waters of Lake Atitlán, enjoying the beauty of its surroundings: volcanoes, indigenous villages, and vibrant nature. A journey filled with history and culture at every turn while you enjoy your event. Important note: Only the boat rental is included, not drinks, food, or decoration. The same tours as in a regular boat can be done, with the advantage that this boat has a much larger capacity.",
-        "esp22": {
-            "d1": "San Marcos: 🍽 Delicious restaurants 🧘‍♀ Meditation and yoga 🤿 Famous trampoline: Dare to jump and take a dip in the lake! 🎨 Picturesque murals 💆 Excellent massages",
-            "d2": "San Juan: 🖼 Art and culture 🌿 Ecotourism 🌋 Panoramic views 🏞 Famous Kaqasiiwaan Viewpoint: Capture spectacular views of the lake and surroundings. 🏡 Community tour: Learn about the textile, honey, chocolate, painting, and coffee-making processes. ☂ Umbrella Street 🎩 Hat Street 🏔 View of Indian Nose",
-            "d3": "San Pedro: 🚣‍♂ Kayak rentals 🐎 Horseback riding 🍽 Restaurants by the lakeshore 🌺 El Colibrí Viewpoint 🖐 Jade Hand 📸 Photo spots ☕ Best coffee places",
-            "d4": "Santiago Atitlán: 📜 History of the lady on the coin 🛍 Handicraft market 🎨 Painting artwork 🪵 Wood carving ⛪ Colonial church 🍽 Restaurants 🦜 Bird watching 🕴 Meet Maximón",
-            "d5": "📍 Santa Catarina Palopó: Cultural Center with exhibitions on the history and traditions of the town. Boardwalk with an impressive view of the lake and volcanoes. Natural hot springs by the lakeshore. Cobblestone streets with murals and houses painted with Mayan designs. Typical handicrafts, especially textiles and decorated ceramics. Painting workshops where locals teach about art.",
-            "d6": "📍 San Antonio Palopó: Artisan chocolate factory where you can see the process and taste different flavors. Ceramic factory with unique hand-painted pieces. Scenic viewpoints with spectacular views of the lake and volcanoes. Colonial church with simple architecture."
-        },
-        "title23": "House Rentals on Airbnb",
-        "description23": "Find the perfect home for your stay in Guatemala through Airbnb. Enjoy comfort, privacy, and a unique experience in selected properties in the country's best destinations.",
-        "listB23": {
-            "b1": "Comfort",
-            "b2": "Safety",
-            "b3": "Accessibility",
-            "b4": "Strategic location"
-        },
-        "d23": "Rent unique homes through Airbnb, tailored to your needs, whether near Lake Atitlán, the city of Antigua, or other beautiful corners of Guatemala. Live like a local with all the comforts.",
-        "esp23": {
-            "d1": "Casa del Río, Panajachel: Capacity for 10 people, includes 3 bedrooms, 4 double beds, 1 sofa bed, living room, equipped kitchen, dining area, balcony, 1 bathroom with bathtub, hot water, cable TV, Wi-Fi, and parking service.",
-            "d2": "Bungalows Casa Aine, Panajachel: Capacity for 7 people, includes 2 bedrooms, the first room with 2 double beds and 1 imperial bed, cable TV; the second room includes 1 double bed, cable TV, Wi-Fi, green area, equipped kitchen, and parking service.",
-            "d3": "Apartment in Riviera de Atitlán: Includes 2 bedrooms for 8 people, kitchen, living room, dining area, Wi-Fi, lake view, private beach, includes heated pool and jacuzzi."
-        }
+    "description1": "Exchange your money quickly and safely. We offer the best exchange rates in the market.",
+    "listB": {
+      "b1": "Competitive exchange rates",
+      "b2": "Fast and secure transactions",
+      "b3": "Peace of mind and trust",
+      "b4": "Convenience and location"
     },
-    "error": {
+    "d1": "Exchange your dollars and euros for quetzales at the best rates. Enjoy a fast and reliable service for your currency exchange needs.",
+    "esp1": {
+      "d1": "It is important to mention that in order to carry out the currency exchange, the money must be in acceptable conditions for the exchange."
+    },
+    "title2": "Door-to-Door Transfer Service",
+    "description2": "Your journey starts here! Enjoy the comfort of being picked up and dropped off at your hotel, airport, or any other destination. Our professional drivers will ensure a safe and punctual trip, tailored to your needs.",
+    "listB2": {
+      "b1": "Professional drivers",
+      "b2": "Safety and punctuality",
+      "b3": "Convenience and comfort",
+      "b4": "Personalized to your needs"
+    },
+    "d2": "Our door-to-door transfer service takes you comfortably and safely between popular destinations in Guatemala and Mexico, with professional drivers and comfortable, air-conditioned vehicles. Travel with peace of mind with our service tailored to your schedules and destinations!",
+    "esp2": {
+      "d1": "Regular service: Scheduled departures to popular destinations with pre-established schedules.",
+      "d2": "Fixed routes: Set routes including transfers to your hotel or accommodation.",
+      "d3": "Professional driver: Trained personnel for a safe trip.",
+      "d4": "Comfortable vehicles: Units with ample space and in good condition.",
+      "d5": "Air conditioning",
+      "d6": "Assistance with luggage",
+      "d7": "Panajachel to Antigua: 5:00 am, 5:30 am, 9:00 am, 12:00 pm, 4:00 pm",
+      "d8": "Antigua to Panajachel: 8:00 am, 12:30 pm, 4:00 pm",
+      "d9": "Panajachel to Guatemala City: 5:00 am, 9:00 am, 12:00 pm, 4:00 pm",
+      "d10": "Guatemala City to Panajachel: 6:00 am, 11:00 am, 2:00 pm",
+      "d11": "Antigua to Guatemala City: 4:00 am, 9:00 am, 12:30 pm, 6:30 pm",
+      "d12": "Panajachel to Chichicastenango (market day) Thursday and Sunday: Departure - 8:00 am (Q.75.00 p/p) / Return - 2:00 pm (Q.75.00 p/p)",
+      "d13": "Panajachel to Quetzaltenango: 5:00 am, 9:00 am, 3:00 pm",
+      "d14": "Panajachel to San Cristobal de las Casas Mexico City: 5:00 am, 6:00 am",
+      "d15": "Panajachel to Cobán - Lanquín: 7:30 am (direct) / 5:00 am, 9:00 am (via Guatemala City)",
+      "d16": "Panajachel to Flores (via Guatemala City): 5:00 am, 9:00 am, 4:00 pm",
+      "d17": "Panajachel to Río Dulce: 5:00 am, 9:00 am",
+      "d18": "Panajachel to El Paredón: 9:00 am (via Antigua) Approximate travel time 3.5 to 4 hrs, 1:00 pm (direct) Approximate travel time 2.5 to 3 hrs"
+    },
+    "title3": "Private Shuttles",
+    "description3": "Exclusivity and comfort in every trip. Enjoy a private and personalized transfer.",
+    "listB3": {
+      "b1": "Exclusivity and comfort",
+      "b2": "Professional drivers",
+      "b3": "Safety and punctuality",
+      "b4": "Convenience and comfort"
+    },
+    "d3": "Our private shuttles offer the best experience in exclusive travel. Enjoy a comfortable and secure transfer with personalized service.",
+    "esp3": {
+      "d1": "Exclusive service: Private trip just for you and your companions, with the option of returning to the departure point, no matter the route.",
+      "d2": "Customized routes: Flexibility in schedule and pickup/destination point.",
+      "d3": "Professional driver: Trained driver to ensure your safety and comfort.",
+      "d4": "Modern and well-equipped vehicles: Recent, comfortable, and safe units, with a capacity for 13 people.",
+      "d5": "Air conditioning: For a cool and pleasant journey.",
+      "d6": "Stops are made"
+    },
+    "title4": "Public Boat Tours",
+    "description4": "Discover the beauty of Guatemala with our boat tours. Explore the jungle, discover the volcanoes, and experience an unforgettable adventure.",
+    "listB4": {
+      "b1": "Expert guides",
+      "b2": "Accessibility",
+      "b3": "Shared experience",
+      "b4": "Natural beauty"
+    },
+    "d4": "Embark on our public boat tours and explore the most beautiful corners of Guatemala, surrounded by nature and good company.",
+    "esp4": {
+      "d1": "Life jackets",
+      "d2": "Round trip",
+      "d3": "Scheduled departure time: 9:00 AM",
+      "d4": "Time in each village: 1.5 hours",
+      "d5": "Includes guide for the entire tour.",
+      "d6": "3 Village Tour: Santiago Atitlán, San Pedro La Laguna, and San Pedro La Laguna - Departure: 9:00 AM - Return: 3:00 PM"
+    },
+    "title5": "Private Boat Tours",
+    "description5": "Discover the beauty of Guatemala with our private boat tours. Explore the jungle, discover the volcanoes, and experience an unforgettable adventure.",
+    "listB5": {
+      "b1": "Exclusive tour",
+      "b2": "Personalized guides",
+      "b3": "Private routes",
+      "b4": "Total comfort"
+    },
+    "d5": "Enjoy a private boat tour where you can explore Guatemala in an exclusive and personalized way, tailored to your interests.",
+    "esp5": {
+      "d1": "Private Boat: Round trip with total comfort.",
+      "d2": "Flexible Schedule: Choose your start time (7:00 AM - 5:00 PM). Additional charge for tours outside these hours.",
+      "d3": "Time to Explore: We adapt to your pace.",
+      "d4": "Life jackets: Safety is our priority.",
+      "d5": "Great atmosphere: Music, laughter, and guaranteed fun.",
+      "d6": "Seated with backrest: Relax and enjoy the scenery comfortably.",
+      "d7": "Regular hours: 7:00 AM to 5:00 PM.",
+      "d8": "1 Village Tour: Choose a village from the 14 villages of Sololá and we’ll take you there. Includes round trip. We adapt to your time. No guide included. Departure anytime (7:00 AM to 5:00 PM).",
+      "d9": "3 Village Tour: San Juan la Laguna, Santiago Atitlán, and San Pedro La Laguna. No guide included. Departure anytime (7:00 AM to 5:00 PM).",
+      "d10": "3 Village Tour: Santiago Atitlán, San Juan la Laguna, and San Juan la Laguna. Departure anytime (7:00 AM to 5:00 PM). Includes bilingual guide for the entire tour.",
+      "d11": "3 Village Tour: San Lucas Tolimán, San Lucas Tolimán, and Santiago Atitlán. Departure anytime (7:00 AM to 5:00 PM). Includes bilingual guide for the entire tour.",
+      "d12": "Medium Tour: Hot Springs, Hot Springs, and San Antonio Palopo. Departure anytime (7:00 AM to 5:00 PM). Includes bilingual guide for the entire tour.",
+      "d13": "4 Village Tour: San Marcos la Laguna, San Juan la Laguna, San Juan la Laguna, and San Pedro la Laguna. Departure anytime (7:00 AM to 5:00 PM)."
+    },
+    "title6": "Charms of Each Village",
+    "description6": "Immerse yourself in Maya culture and discover the traditions of each village.",
+    "listB6": {
+      "b1": "Maya culture",
+      "b2": "Local history",
+      "b3": "Handicrafts",
+      "b4": "Living traditions"
+    },
+    "d6": "Travel through the villages of Guatemala and connect with Maya culture, their traditions, and the rich history of each place.",
+    "esp6": {
+      "d1": "Adventures: You will have the opportunity to experience unforgettable moments in each village.",
+      "d2": "Culture: Discover the Maya culture and its traditional customs.",
+      "d3": "Handicrafts: Explore local handicrafts and enjoy artisanal products.",
+      "d4": "History: Learn about the history of each village and discover its past."
+    },
+    "title7": "Tikal National Park Tour",
+    "description7": "Live a unique experience in the Mayan jungle. Explore the ancient ruins and rich biodiversity of Tikal.",
+    "listB7": {
+      "b1": "Unique biodiversity",
+      "b2": "Ancient ruins",
+      "b3": "Mayan history",
+      "b4": "Hiking in the jungle"
+    },
+    "d7": "Venture into the Tikal jungle, an archaeological and natural site where you can explore ancient ruins, enjoy the biodiversity, and connect with Mayan history.",
+    "esp7": {
+      "d1": "Hotel transportation in Guatemala to the airport",
+      "d2": "Round-trip flight ticket Guatemala-Flores-Guatemala",
+      "d3": "Exclusive bilingual guide for Tikal",
+      "d4": "Transportation from Flores-Tikal-Flores",
+      "d5": "Lunch in the park (without beverage)",
+      "d6": "Does not include hotel in Guatemala",
+      "d7": "Daily departures at 6:00 AM with return at 6:30 PM the same day."
+    },
+    "title8": "Quetzaltenango Tour",
+    "description8": "Discover the city of eternal winds. Visit artisan markets, volcanoes, and historic sites.",
+    "listB8": {
+      "b1": "Local culture",
+      "b2": "Colonial history",
+      "b3": "Artisan markets",
+      "b4": "Volcanic landscapes"
+    },
+    "d8": "Explore Quetzaltenango, the city of eternal winds, and immerse yourself in its history, local art, and beautiful volcanic landscapes.",
+    "esp8": {
+      "d1": "Full transportation",
+      "d2": "Free entry",
+      "d3": "Relax in the hot springs (Fuentes Georginas)",
+      "d4": "Zunil, Maximon, soul cofrade and more!",
+      "d5": "Daily departures at 8:00 AM with return at 5:00 PM the same day."
+    },
+    "title9": "San Pedro Volcano",
+    "description9": "Ascend to San Pedro Volcano and enjoy panoramic views of Lake Atitlán.",
+    "listB9": {
+      "b1": "Challenging hiking",
+      "b2": "Stunning views",
+      "b3": "Biodiversity",
+      "b4": "Connection with nature"
+    },
+    "d9": "Climb the majestic San Pedro Volcano and enjoy spectacular views of Lake Atitlán. A challenge for hiking and nature enthusiasts.",
+    "esp9": {
+      "d1": "Transport from your hotel to the public dock.",
+      "d2": "Boat ride from Panajachel to San Pedro and vice versa.",
+      "d3": "Breakfast",
+      "d4": "Includes a guide"
+    },
+    "title10": "Bus Tickets",
+    "description10": "Travel comfortably and safely on our buses. Book your tickets now!",
+    "listB10": {
+      "b1": "Comfort",
+      "b2": "Safety",
+      "b3": "Accessibility",
+      "b4": "Variety of routes"
+    },
+    "d10": "Our buses offer a comfortable and safe journey, with routes that connect you easily and quickly. Book your ticket and travel with us!",
+    "esp10": {
+      "d1": "Panajachel - Flores - Tikal",
+      "d2": "Panajachel - Comitán",
+      "d3": "Panajachel - La Mesilla",
+      "d4": "Panajachel - Huehuetenango"
+    },
+    "title11": "Pullman Guatemala - El Salvador",
+    "description11": "Comfortable and safe transportation on every trip, our services operate every day of the week.",
+    "listB11": {
+      "b1": "Punctuality",
+      "b2": "Safety",
+      "b3": "Comfort",
+      "b4": "Daily connection"
+    },
+    "d11": "Travel the route between Guatemala and El Salvador with comfort and safety. Enjoy the landscape while traveling with us every day.",
+    "esp11": {
+      "d1": "Tourist - Departure: 6:00 AM",
+      "d2": "Class - Departure: 2:00 PM Note: Double-decker (sleeping seat)"
+    },
+    "title12": "Bicycles",
+    "description12": "Come and enjoy bike tours, discovering unforgettable landscapes along the way.",
+    "listB12": {
+      "b1": "Incredible views",
+      "b2": "Fun",
+      "b3": "Customized routes",
+      "b4": "Healthy exercise"
+    },
+    "d12": "Ride through Guatemala on two wheels, enjoying stunning landscapes while exercising and having a unique experience.",
+    "esp12": {
+      "d1": "Includes guide",
+      "d2": "Bicycle",
+      "d3": "Safety equipment"
+    },
+    "title13": "Domestic and International Flights",
+    "description13": "Book your domestic and international flights with us and travel worry-free.",
+    "listB13": {
+      "b1": "Variety of destinations",
+      "b2": "Competitive prices",
+      "b3": "Flexibility with changes",
+      "b4": "Personalized service"
+    },
+    "d13": "Arrive at your destination safely and comfortably, whether within Guatemala or around the world. With our wide range of flights, making your next trip a reality has never been easier.",
+    "esp13": {
+      "d1": "Purchase management",
+      "d2": "Flight tracking",
+      "d3": "Flight itinerary"
+    },
+    "title14": "Hiking",
+    "description14": "Embark on a hiking adventure through the beautiful landscapes of Guatemala. Explore mountains, forests, and volcanoes while connecting with nature.",
+    "listB14": {
+      "b1": "Breathtaking landscapes",
+      "b2": "Routes for all levels",
+      "b3": "Expert guides",
+      "b4": "Connection with nature"
+    },
+    "d14": "Experience a unique adventure hiking through Guatemala's trails, surrounded by incredible biodiversity and landscapes that will leave you breathless. Nature awaits!",
+    "esp14": {
+      "d1": "Tour to San Pedro Volcano: Guide, round-trip boat, breakfast and lunch, park entrance, transportation in San Pedro town to reach the park.",
+      "d2": "Tour to Nariz del Indio (San Juan la Laguna): Round-trip transportation, guide, entrance, coffee or tea in the morning.",
+      "d3": "Maya Altar Tour (San Jorge and Sololá): Transportation, guide, entrance fees, small snack."
+    },
+    "title15": "ATVs",
+    "description15": "Embark on an exciting ATV adventure through the stunning landscapes of Guatemala. Feel the adrenaline as you explore the wildest nature.",
+    "esp15": {
+      "d1": "Pro Tour - with guide (extra) - The tour includes helmets, goggles, and in case of rain, raincoats - Visit 2 towns: Santa Catarina Palopo, San Antonio Palopó, San Antonio Palopó, Visit to the Cultural Center, Chocolate Factory, and Viewpoints.",
+      "d2": "Santa Catarina Palopo Tour - with guide (extra) - The tour includes helmets, goggles, and in case of rain, raincoats. - Visit 1 town: Cultural Center, Malecón, Hot Springs.",
+      "d3": "Viewpoint Tour - with guide (extra) - The tour includes helmets, goggles, and in case of rain, raincoats - Main street of Panajachel, Lakefront of Panajachel, Viewpoint.",
+      "d4": "1-Hour Rental - No guide",
+      "d5": "Note: Minors cannot drive (they can ride as passengers). Adults must have a driver’s license or DPI."
+    },
+    "listB15": {
+      "b1": "Adventure",
+      "b2": "Safety",
+      "b3": "Adapted routes",
+      "b4": "Outdoor fun"
+    },
+    "d15": "Enjoy an exciting ATV experience as you explore the wild beauty of Guatemala, from volcanoes to jungles.",
+    "title16": "Canopy",
+    "description16": "Fly between the treetops and enjoy a unique view of the Guatemalan jungle on our canopy tours. An experience full of adrenaline and nature!",
+    "listB16": {
+      "b1": "High-altitude adventure",
+      "b2": "Spectacular views",
+      "b3": "Guaranteed safety",
+      "b4": "Connection with nature"
+    },
+    "d16": "Enjoy a unique journey over the treetops and discover the majesty of the Guatemalan jungle from an incredible perspective. An experience that will make you feel on top of the world! The cost includes all the attractions of the reserve: Butterfly House at the Geodome, trails, hanging bridges, children's play area, private lake shore, and visitor center.",
+    "esp16": {
+      "d1": "Ultra Extreme: Cross part of the valley and reach the tip of the San Buenaventura bay. On the way back, pass by the coffee plantation. The ultra-extreme cables offer the most spectacular views of the lake and the longest cables. The tour includes a walk along a horseshoe path used by merchants from the highlands in the past. There is a weight limit of 250 lbs depending on the speed of the cables.",
+      "d2": "Extreme: Passes over waterfalls, canyons, the valley, and the coffee forest. Compared to the Ultra cables, this tour offers a variety of scenarios crossing picturesque parts of the valley. These cables are generally shorter and serve as a great introduction to extreme experiences.",
+      "d3": "The canopy service is only available at the following times: 9:00 AM, 11:00 AM, 1:00 PM, and 3:00 PM. Customers must be 40 minutes before the scheduled time at the agency. It also includes transportation from our agency to the service location only.",
+      "d4": "Extreme Cable Specifications: Number of cables: 8 Total length: 1300 m Cable lengths: 90 m to 320 m Maximum cable height: 25 m Duration of the tour: 1 hour and 30 minutes Length of the trail to the cables: 450 m Vertical ascent on the trail: 80 m",
+      "d5": "Ultra Extreme Cable Specifications: Number of cables: 7, total cable distance: 2,381 m, cable lengths: 90 m to 860 m. Yes, you read that correctly, it’s a big stretch. Maximum cable height: 55 m, tour duration: 1 hour and 50 minutes, length of the trail to the cables: 900 m, vertical ascent on the trail: 136 m.",
+      "d6": "Low ropes: Both the extreme and ultra-extreme cables end in an optional low ropes course. See if you can cross the river on thin planks or swing from one swing to another."
+    },
+    "title17": "Paragliding",
+    "esp17": {
+      "d1": "Flight hours: Available from 7:00 AM to 4:00 PM.",
+      "d2": "Minimum age: From 5 years old.",
+      "d3": "Maximum weight: 230 pounds.",
+      "d4": "Recommended clothing: Wear sportswear for better comfort.",
+      "d5": "Flight duration: Approximately 15 to 30 minutes, subject to weather conditions.",
+      "d6": "Includes: An expert guide who will accompany you throughout the flight.",
+      "d7": "Safety equipment: All necessary equipment is provided for a safe and thrilling experience.",
+      "d8": "The price includes transportation from our travel agency in Panajachel to the take-off area.",
+      "d9": "Payment is made in advance to secure your spot in the service.",
+      "d10": "Paragliding is considered an extreme sport and you will fly at your own risk.",
+      "d11": "Discounts available for groups of more than 5 people."
+    },
+    "description17": "Enjoy panoramic views of the lake and volcanoes while paragliding. An irresistible experience!",
+    "listB17": {
+      "b1": "Spectacular views",
+      "b2": "Guaranteed safety",
+      "b3": "Connection with nature",
+      "b4": "Convenience"
+    },
+    "d17": "Fly over the lake and volcanoes, enjoying panoramic views that only paragliding can offer. An exciting and irresistible experience!",
+    "title18": "Transparent Kayaks",
+    "description18": "Embark on an exciting kayak journey through the stunning landscapes of Guatemala. Feel the adrenaline as you explore the wildest nature.",
+    "listB18": {
+      "b1": "Comfort",
+      "b2": "Safety",
+      "b3": "Tailored routes",
+      "b4": "Personalized adventure"
+    },
+    "d18": "Navigate through the calm and beautiful landscapes of Guatemala in a kayak. Discover the secrets of nature as you explore lakes and rivers from a unique perspective.",
+    "esp18": {
+      "d1": "Takes place at Bahia de San Buenaventura",
+      "d2": "Proper safety equipment is provided",
+      "d3": "The service includes one-way transport, with departure times from 6:00 AM to 12:00 PM (subject to weather), and includes life jackets."
+    },
+    "title19": "Jet Skis",
+    "description19": "Rent a jet ski and feel the thrill of riding on the lake. An incredible experience!",
+    "listB19": {
+      "b1": "Comfort",
+      "b2": "Safety",
+      "b3": "Speed and adrenaline",
+      "b4": "Guaranteed fun"
+    },
+    "d19": "Feel the excitement to the fullest while riding the waters of Guatemala on a jet ski. An adrenaline-filled experience!",
+    "esp19": {
+      "d1": "Can be exchanged",
+      "d2": "Proper safety equipment is provided"
+    },
+    "title20": "Birdwatching",
+    "description20": "Observe a wide variety of birds in their natural habitat. An irresistible experience!",
+    "listB20": {
+      "b1": "Variety of species",
+      "b2": "Expert guides",
+      "b3": "Connection with nature",
+      "b4": "Peaceful landscapes"
+    },
+    "d20": "Enjoy a unique experience while watching birds in their natural environment. The biodiversity of Guatemala will surprise you.",
+    "esp20": {
+      "d1": "Guide included",
+      "d2": "Takes place in Santiago Atitlan"
+    },
+    "title21": "Taxi Tour (Tuc Tuc)",
+    "description21": "Enjoy a taxi tour (tuc tuc) and discover the most beautiful corners of Guatemala. Discover the beauty of Guatemala with us!",
+    "listB21": {
+      "b1": "Comfort",
+      "b2": "Safety",
+      "b3": "Accessibility",
+      "b4": "Personalized tour"
+    },
+    "d21": "Explore the charms of Guatemala in a unique way by taking a taxi (tuc tuc). A ride full of history, culture, and stunning landscapes.",
+    "esp21": {
+      "d1": "Pro Tour - with guide - Visit to 2 towns: Santa Catarina Palopo, San Antonio Palopó, Visit to the Cultural Center, Chocolate Factory, Viewpoints.",
+      "d2": "Santa Catarina Palopó Tour - with guide - Visit to 1 town: Cultural Center, Malecón, Hot Springs.",
+      "d3": "Viewpoint Tour - with guide: Main street of Panajachel, Lakeshores of Panajachel, Viewpoint."
+    },
+    "title22": "Boats on Lake Atitlán",
+    "description22": "Live a unique experience sailing on the stunning Lake Atitlán. Enjoy spectacular landscapes while carrying out your dream activity on Lake Atitlán.",
+    "listB22": {
+      "b1": "Music onboard",
+      "b2": "Life jackets",
+      "b3": "Activities during the ride",
+      "b4": "Unforgettable moments"
+    },
+    "d22": "Sail through the crystal-clear waters of Lake Atitlán, enjoying the beauty of its surroundings: volcanoes, indigenous villages, and vibrant nature. A journey full of history and culture in every corner while enjoying your event. Important note: Only the boat is rented, food, drinks, and decorations are not included. The same tours offered in a boat can be done, with the advantage that the boat can carry many more people.",
+    "esp22": {
+      "d1": "San Marcos: 🍽 Delicious restaurants 🧘‍♀ Meditation and yoga 🤿 Famous trampoline: Dare to jump and take a dip in the lake! 🎨 Picturesque murals 💆 Excellent massages",
+      "d2": "San Juan: 🖼 Art and culture 🌿 Ecotourism 🌋 Panoramic views 🏞 Famous Kaqasiiwaan viewpoint: Capture spectacular views of the lake and surrounding areas. 🏡 Community tour: Learn about textile, honey, chocolate, painting, and coffee processes. ☂ Umbrella Street 🎩 Hat Street 🏔 Indian Nose Viewpoint",
+      "d3": "San Pedro: 🚣‍♂ Kayak rental 🐎 Horseback riding 🍽 Lakeside restaurants 🌺 El Colibrí Viewpoint 🖐 Jade Hand 📸 Photo spots ☕ Best coffee places",
+      "d4": "Santiago Atitlán: 📜 Story of the Lady of the Coin 🛍 Artisan market 🎨 Paintings 🪵 Wood carvings ⛪ Colonial church 🍽 Restaurants 🦜 Bird watching 🕴 Meet Maximón",
+      "d5": "📍 Santa Catarina Palopó: Cultural Center with exhibits on the history and traditions of the town. Beautiful waterfront with a stunning view of the lake and volcanoes. Natural hot springs by the shore. Cobblestone streets with murals and houses painted with Mayan designs. Traditional crafts, especially textiles and decorated ceramics. Painting workshops where locals teach art.",
+      "d6": "📍 San Antonio Palopó: Artisan chocolate factory where you can see the process and taste different flavors. Ceramic factory with unique, hand-painted pieces. Viewpoints with spectacular views of the lake and volcanoes. Colonial church with simple architecture."
+    },
+    "title23": "House Rentals on Airbnb",
+    "description23": "Find the perfect home for your stay in Guatemala through Airbnb. Enjoy comfort, privacy, and a unique experience in selected properties in the best destinations in the country.",
+    "listB23": {
+      "b1": "Comfort",
+      "b2": "Safety",
+      "b3": "Accessibility",
+      "b4": "Strategic Location"
+    },
+    "d23": "Rent unique homes through Airbnb, tailored to your needs, whether near Lake Atitlán, the city of Antigua, or other beautiful corners of Guatemala. Live like a local with all the comforts.",
+    "esp23": {
+      "d1": "Casa del Río, Panajachel: Capacity for 10 people, includes 3 bedrooms, 4 double beds, 1 sofa bed, living room, equipped kitchen, dining room, balcony, 1 bathroom with tub, hot water, cable TV, Wi-Fi, and parking service.",
+      "d2": "Bungalows Casa Aine, Panajachel: Capacity for 7 people, includes 2 bedrooms, the first bedroom with 2 double beds and 1 king-size bed, cable TV, the second bedroom includes 1 double bed, cable TV, Wi-Fi, green area, equipped kitchen, and parking service.",
+      "d3": "Apartment in the Riviera de Atitlán: Includes 2 bedrooms for 8 people, kitchen, living room, dining room, Wi-Fi, lake view, private beach, includes heated pool and jacuzzi."
+    },
+    "title24": "Bicicables",
+    "description24": "Bicicables is an exciting activity that combines the feeling of flying with the fun of riding a bike. It involves a bike ride suspended on steel cables, crossing the beautiful San Buenaventura valley. The route offers spectacular panoramic views of the lake, surrounding volcanoes, coffee farms, and oak forests.",
+    "listB24": {
+      "b1": "Unique and thrilling experience: Bicicables provides an adrenaline rush and an unmatched sense of freedom.",
+      "b2": "Stunning panoramic views: Enjoy breathtaking landscapes of the lake, volcanoes, and surrounding nature from a unique perspective.",
+      "b3": "Connection with nature: Immerse yourself in the beauty of the natural surroundings while enjoying the activity.",
+      "b4": "Activity for the whole family: Bicicables is a safe and fun activity for people of all ages."
+    },
+    "d24": "The Bicicables ride lasts approximately 20 minutes, each cable is 250 meters long, and the maximum height is 18 meters. The access trail to the cables is 200 meters long, with a vertical climb of 37 meters. The service has experienced guides who ensure the safety of participants and includes the use of safety harnesses. The number of bikes used per Bicicable is two.",
+    "esp24": {
+      "d1": "Number of bikes: 3, two for each Bicicable",
+      "d2": "Length of each cable: 250 m",
+      "d3": "Maximum cable height: 18 m",
+      "d4": "Tour duration: 20 minutes",
+      "d5": "Length of the trail to the cables: 200 m",
+      "d6": "Vertical ascent on the trail: 37 m"
+    }
+  },
+  "error": {
     "title": "Page Not Found",
-    "description": "Sorry, we couldn't find the page you were looking for.",
+    "description": "Sorry, we couldn't find the page you're looking for.",
     "home": "Go to Home",
     "contact": "Go to Contact"
   },
@@ -511,4 +537,4 @@
     "title": "Footer",
     "copy": "All rights reserved."
   }
-  }
+}

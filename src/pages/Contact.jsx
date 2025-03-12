@@ -45,7 +45,7 @@ const Contact = () => {
             <h3 className="text-2xl font-bold mb-2">{t("contact.card1.title")}</h3>
             <p className="mb-4">{t("contact.card1.description")}</p>
             <a href="tel:+1234567890" className="text-indigo-600 dark:text-indigo-400 font-semibold hover:underline">
-              +502 3354 3937
+              +502 3354 3937 / +502 7766 8938
             </a>
           </div>
 
@@ -80,7 +80,7 @@ const Contact = () => {
             <a href="https://wa.me/+50233543937" target="_blank" rel="noopener noreferrer" className="text-green-600 text-4xl hover:scale-110 transition-transform">
               <FontAwesomeIcon icon={faWhatsapp} />
             </a>
-            <a href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer" className="text-gray-900 text-4xl hover:scale-110 transition-transform">
+            <a href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer" className="text-gray-900 dark:text-slate-50 text-4xl hover:scale-110 transition-transform">
               <FontAwesomeIcon icon={faTiktok} />
             </a>
           </div>

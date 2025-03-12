@@ -87,6 +87,12 @@ const Services = () => {
       subname: t("services.subtitle3"),
     },
     {
+      id: 24,
+      name: t("services.title24"),
+      imageSrc: "/img/S24.png",
+      subname: t("services.subtitle24"),
+    },
+    {
       id: 5,
       name: t("services.title5"),
       imageSrc: "/img/S5.png",
