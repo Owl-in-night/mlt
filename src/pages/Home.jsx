@@ -66,6 +66,7 @@ export default function Home() {
       {/* Sección principal */}
       <section className="h-screen relative">
         {isMobile ? (
+          // 🖼️ Carrusel de imágenes en móviles (sin cambios)
           <Carousel
             showThumbs={false}
             autoPlay
@@ -86,16 +87,41 @@ export default function Home() {
             </div>
           </Carousel>
         ) : (
-          <div
-            className="absolute inset-0"
-            style={{
-              backgroundImage: `url('/img/HOME12.JPG')`,
-              backgroundSize: "cover",
-              backgroundPosition: "center",
-              backgroundRepeat: "no-repeat",
-            }}
-          />
+          // 🌟 Mostrar primero la imagen y luego el video en pantallas grandes
+          <Carousel
+            showThumbs={false}
+            autoPlay
+            infiniteLoop
+            interval={5000} // 5 segundos entre imagen y video
+            className="h-full w-full"
+            showStatus={false}
+            showArrows={false}
+            showIndicators={false}
+          >
+            {/* Imagen de inicio */}
+            <div className="relative h-screen">
+              <img
+                src="/img/HOME12.JPG"
+                className="w-full h-full object-cover"
+                alt="Home"
+              />
+            </div>
+
+            {/* Video de fondo */}
+            <div className="relative h-screen">
+              <video
+                src="/videos/homev.mp4"
+                className="w-full h-full object-cover"
+                autoPlay
+                loop
+                muted
+                playsInline
+              />
+            </div>
+          </Carousel>
         )}
+
+        {/* Capa oscura y contenido */}
         <div className="absolute inset-0 bg-black/50" />
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center">
           <h1 className="text-5xl font-bold tracking-tight text-white sm:text-7xl">
@@ -105,11 +131,7 @@ export default function Home() {
             <i>{t("home.eslogan")}</i>
           </p>
           <div className="mt-10">
-            <ActionButton
-              to="/services"
-              text={t("home.button1")}
-              Icon={BookOpen}
-            />
+            <ActionButton to="/services" text={t("home.button1")} Icon={BookOpen} />
           </div>
         </div>
       </section>
