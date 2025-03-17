@@ -6,18 +6,18 @@ const About = () => {
   return (
     <div>
       {/* Primera sección */}
-      <section className="relative h-screen">
+      <section className="relative min-h-[50vh] md:min-h-screen">
         <div className="absolute inset-0">
           <img
-            src="../../img/about33.png"
+            src="../../public/img/about33.png"
             alt="Background"
-            className="w-full h-full object-cover"
+            className="w-full h-[50vh] md:h-full object-cover"
           />
           <div className="absolute inset-0 bg-black/50" />
         </div>
 
         {/* Contenido en modo desktop */}
-        <div className="hidden md:flex relative z-10 flex-col md:flex-row items-center justify-between px-8 py-16 md:py-24 md:px-40 h-full">
+        <div className="hidden md:flex absolute inset-0 flex-col md:flex-row items-center justify-between px-8 py-32 md:py-40 md:px-40 h-full md:flex md:items-end md:bottom-10">
           <div className="md:w-1/2 text-center md:text-left text-white">
             <p className="text-sm uppercase font-semibold mb-4">
               {t("about.subtitle")}
@@ -80,7 +80,7 @@ const About = () => {
         {/* Imagen */}
         <div className="md:w-1/2 flex justify-center md:justify-start">
           <img
-            src="../../img/about22.JPG"
+            src="../../public/img/about22.JPG"
             alt="Platform Overview"
             className="w-full max-w-md md:max-w-lg rounded-2xl shadow-xl object-cover aspect-video"
           />
@@ -112,7 +112,7 @@ const About = () => {
         {/* Imagen */}
         <div className="md:w-1/2 flex justify-center md:justify-end">
           <img
-            src="../../img/img21.png"
+            src="../../public/img/img21.png"
             alt="Innovation"
             className="w-full max-w-md md:max-w-lg rounded-2xl shadow-xl object-cover aspect-video"
           />
@@ -152,7 +152,7 @@ const About = () => {
           {[1, 2, 3].map((value) => (
             <div key={value} className="text-center space-y-4">
               <img
-                src={`../../img/value${value}.jpg`}
+                src={`../../public/img/value${value}.jpg`}
                 className="w-64 h-48 mx-auto rounded-xl shadow-lg object-cover"
               />
               <h3 className="text-2xl font-semibold text-gray-900 dark:text-white">
