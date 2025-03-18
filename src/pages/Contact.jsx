@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFacebook, faInstagram, faWhatsapp, faTiktok } from "@fortawesome/free-brands-svg-icons";
+import { faFacebook, faInstagram, faWhatsapp, faTiktok, faYoutube } from "@fortawesome/free-brands-svg-icons";
 import { faPhone, faMapMarkerAlt } from "@fortawesome/free-solid-svg-icons"; // Importamos el icono de ubicación
 
 const Contact = () => {
@@ -71,17 +71,20 @@ const Contact = () => {
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">{t("contact.socialMediaTitle")}</h2>
           <div className="flex justify-center gap-8">
-            <a href="https://www.facebook.com/people/Milan-Tours/61565389413373/#" target="_blank" rel="noopener noreferrer" className="text-blue-600 text-4xl hover:scale-110 transition-transform">
+            <a href="https://www.facebook.com/profile.php?id=61565389413373" target="_blank" rel="noopener noreferrer" className="text-blue-600 text-4xl hover:scale-110 transition-transform">
               <FontAwesomeIcon icon={faFacebook} />
             </a>
-            <a href="https://www.instagram.com/milantours_panajachel/?igsh=MTRnZTE3ZHp4M3Z6NQ%3D%3D#" target="_blank" rel="noopener noreferrer" className="text-pink-600 text-4xl hover:scale-110 transition-transform">
+            <a href="https://www.instagram.com/milantours_panajachel/" target="_blank" rel="noopener noreferrer" className="text-pink-600 text-4xl hover:scale-110 transition-transform">
               <FontAwesomeIcon icon={faInstagram} />
             </a>
             <a href="https://wa.me/+50233543937" target="_blank" rel="noopener noreferrer" className="text-green-600 text-4xl hover:scale-110 transition-transform">
               <FontAwesomeIcon icon={faWhatsapp} />
             </a>
-            <a href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer" className="text-gray-900 dark:text-slate-50 text-4xl hover:scale-110 transition-transform">
+            <a href="https://www.tiktok.com/@milantours_panajachel?lang=es" target="_blank" rel="noopener noreferrer" className="text-gray-900 dark:text-slate-50 text-4xl hover:scale-110 transition-transform">
               <FontAwesomeIcon icon={faTiktok} />
+            </a>
+            <a href="http://www.youtube.com/@PanajachelAdventures" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-500 text-4xl hover:scale-110 transition-transform">
+              <FontAwesomeIcon icon={faYoutube} />
             </a>
           </div>
         </div>
