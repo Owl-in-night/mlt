@@ -164,7 +164,7 @@
       "d4": "Véhicules confortables: Unités offrant un espace suffisant et en bon état.",
       "d5": "Climatisation",
       "d6": "Aide avec vos bagages",
-      "d7": "Panajachel à Antigua: 5h00, 5h30, 9h00, 12h00, 16h00",
+      "d7": "Panajachel à Antigua: 5h00, 9h00, 12h00, 16h00",
       "d8": "Antigua à Panajachel: 5h30, 8h00, 12h30, 16h00",
       "d9": "Panajachel à Ciudad de Guatemala: 5h00, 9h00, 12h00, 4h00",
       "d10": "Ciudad de Guatemala à Panajachel: 6h00, 11h00, 14h00",
@@ -367,7 +367,7 @@
     },
     "d14": "Vivez une aventure unique en parcourant les sentiers du Guatemala, entouré d'une biodiversité incroyable et de paysages qui vous couperont le souffle. La nature vous attend !",
     "esp14": {
-      "d1": "Tour du volcan San Pedro : Guide, bateau aller-retour, petit-déjeuner et déjeuner, entrée du parc, transport dans le village de San Pedro pour rejoindre le parc.",
+      "d1": "Excursion au Volcan de San Pedro : Guide, Aller-retour en bateau, Entrée au parc, Transport dans le village de San Pedro pour se rendre au parc.",
       "d2": "Tour de la Nariz del Indio (San Juan la Laguna) : Transport aller-retour, guide, entrée, café ou thé le matin.",
       "d3": "Tour de l'Altar Maya (San Jorge et Sololá) : Transport, guide, entrée, petite collation."
     },

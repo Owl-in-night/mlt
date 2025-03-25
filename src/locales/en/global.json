@@ -164,7 +164,7 @@
       "d4": "Comfortable vehicles: Units with sufficient space and in good condition.",
       "d5": "Air conditioning",
       "d6": "Help with your luggage",
-      "d7": "Panajachel to Antigua: 5:00 am, 5:30 am, 9:00 am, 12:00 pm, 4:00 pm",
+      "d7": "Panajachel to Antigua: 5:00 am, 9:00 am, 12:00 pm, 4:00 pm",
       "d8": "Antigua to Panajachel: 5:30 am, 8:00 am, 12:30 pm, 4:00 pm",
       "d9": "Panajachel to Guatemala City: 5:00 am, 9:00 am, 12:00 am, 4:00 am",
       "d10": "Guatemala City to Panajachel: 6:00 am, 11:00 am, 2:00 pm",
@@ -367,7 +367,7 @@
     },
     "d14": "Experience a unique adventure hiking through Guatemala's trails, surrounded by incredible biodiversity and landscapes that will leave you breathless. Nature awaits!",
     "esp14": {
-      "d1": "Tour to San Pedro Volcano: Guide, round-trip boat, breakfast and lunch, park entrance, transportation in San Pedro town to reach the park.",
+      "d1": "Tour to San Pedro Volcano: Guide, Round trip boat, Park entrance, Transportation in the town of San Pedro to reach the park.",
       "d2": "Tour to Nariz del Indio (San Juan la Laguna): Round-trip transportation, guide, entrance, coffee or tea in the morning.",
       "d3": "Maya Altar Tour (San Jorge and Sololá): Transportation, guide, entrance fees, small snack."
     },

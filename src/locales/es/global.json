@@ -164,7 +164,7 @@
       "d4": "Vehículos cómodos: Unidades con espacio suficiente y en buen estado.",
       "d5": "Aire acondicionado",
       "d6": "Ayuda con tus maletas",
-      "d7": "Panajachel a Antigua: 5:00 am, 5:30 am, 9:00 am, 12:00 pm, 4:00 pm",
+      "d7": "Panajachel a Antigua: 5:00 am, 9:00 am, 12:00 pm, 4:00 pm",
       "d8": "Antigua a Panajachel: 5:30 am,8:00 am, 12:30 pm, 4:00 pm",
       "d9": "Panajachel a Ciudad de Guatemala: 5:00 am, 9:00 am, 12:00 am, 4:00 am",
       "d10": "Ciudad de Guatemala a Panajachel: 6:00 am, 11:00 am, 2:00 pm",
@@ -367,7 +367,7 @@
     },
     "d14": "Vive una experiencia única recorriendo los senderos de Guatemala, rodeado de una biodiversidad increíble y paisajes que te dejarán sin aliento. ¡La naturaleza te espera!",
     "esp14": {
-      "d1": "Tour al Volcán de San Pedro: Guía, Lancha ida y vuelta, Desayuno y almuerzo, Entrada al parque, Transporte en el pueblo de San Pedro para llegar al parque.",
+      "d1": "Tour al Volcán de San Pedro: Guía, Lancha ida y vuelta, Entrada al parque, Transporte en el pueblo de San Pedro para llegar al parque.",
       "d2": "Tour a Nariz del Indio (San Juan la laguna): Transporte ida y vuelta, Guía, Entrada, Café o té en la mañana.",
       "d3": "Tour Altar Maya (San Jorge y Sololá): Transporte, Guía, Entradas, Pequeña refacción."
     },
