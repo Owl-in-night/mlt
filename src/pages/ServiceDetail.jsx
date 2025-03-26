@@ -500,7 +500,7 @@ export default function ProductDetail() {
     {
       id: 16,
       name: t("serviceD.title16"),
-      especify: [t("serviceD.esp16.d1"),t("serviceD.esp16.d2"), t("serviceD.esp16.d3"),t("serviceD.esp16.d4"),t("serviceD.esp16.d5"), t("serviceD.esp16.d6")],
+      especify: [t("serviceD.esp16.d1"), t("serviceD.esp16.d2"), t("serviceD.esp16.d3"), t("serviceD.esp16.d4"), t("serviceD.esp16.d5"), t("serviceD.esp16.d6")],
       images: [
         {
           src: "/img/img61.png",
@@ -782,6 +782,7 @@ export default function ProductDetail() {
   if (!product) {
     return <p>Product not found</p>;
   }
+  console.log(typeof id); // Asegúrate de que es un número
 
   return (
     <div className="flex flex-col items-center justify-center">
@@ -825,26 +826,52 @@ export default function ProductDetail() {
           </Carousel>
         </div>
         {/* Image gallery */}
-        <div className="hidden lg:grid lg:max-w-7xl lg:grid-cols-3 lg:gap-x-8 lg:px-8">
-          <img
-            src={product.images[0].src}
-            className="size-full rounded-lg object-cover"
-          />
-          <div className="grid grid-cols-1 gap-y-8">
-            <img
-              src={product.images[1].src}
-              className="aspect-[3/2] w-full rounded-lg object-cover"
-            />
-            <img
-              src={product.images[2].src}
-              className="aspect-[3/2] w-full rounded-lg object-cover"
-            />
-          </div>
-          <img
-            src={product.images[3].src}
-            className="aspect-[4/5] size-full object-cover sm:rounded-lg lg:aspect-auto"
-          />
-        </div>
+        <div className="hidden lg:flex lg:justify-center lg:items-center lg:max-w-7xl lg:gap-12 lg:px-8">
+  {Number(id) === 17 ? (
+    <>
+      <div className="flex flex-col items-center gap-y-8">
+        <video
+          src="/videos/videoa.mp4"
+          className="w-[80%] h-[500px] lg:w-[90%] lg:h-[600px] rounded-lg object-cover"
+          autoPlay
+          loop
+          muted
+          playsInline
+        />
+      </div>
+      <video
+        src="/videos/videob.mp4"
+        className="w-[80%] h-[500px] lg:w-[90%] lg:h-[600px] rounded-lg object-cover"
+        autoPlay
+        loop
+        muted
+        playsInline
+      />
+    </>
+  ) : (
+    <>
+      <img
+        src={product?.images?.[0]?.src}
+        className="size-full rounded-lg object-cover"
+      />
+      <div className="grid grid-cols-1 gap-y-8">
+        <img
+          src={product?.images?.[1]?.src}
+          className="aspect-[3/2] w-full rounded-lg object-cover"
+        />
+        <img
+          src={product?.images?.[2]?.src}
+          className="aspect-[3/2] w-full rounded-lg object-cover"
+        />
+      </div>
+      <img
+        src={product?.images?.[3]?.src}
+        className="aspect-[4/5] size-full object-cover sm:rounded-lg lg:aspect-auto"
+      />
+    </>
+  )}
+</div>
+
 
         {/* Product info with conditional card */}
         <div className="mx-auto max-w-2xl px-4 pb-16 pt-10 sm:px-6 lg:grid lg:max-w-7xl lg:grid-cols-3 lg:grid-rows-[auto_auto_1fr] lg:gap-x-8 lg:px-8 lg:pb-24 lg:pt-16">
@@ -885,6 +912,8 @@ export default function ProductDetail() {
                 </p>
               </div>
             </div>
+
+
             <div className="mt-10">
               <h3 className="text-sm font-medium text-gray-900 dark:text-gray-200">
                 {t("serviceD.beneficios")}
