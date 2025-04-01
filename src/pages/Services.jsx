@@ -15,10 +15,10 @@ const Services = () => {
 
   const services = [
     {
-      id: 4,
-      name: t("services.title4"),
-      imageSrc: "/img/S4.png",
-      subname: t("services.subtitle4"),
+      id: 5,
+      name: t("services.title5"),
+      imageSrc: "/img/S5.png",
+      subname: t("services.subtitle5"),
     },
     {
       id: 22,
@@ -93,10 +93,10 @@ const Services = () => {
       subname: t("services.subtitle24"),
     },
     {
-      id: 5,
-      name: t("services.title5"),
-      imageSrc: "/img/S5.png",
-      subname: t("services.subtitle5"),
+      id: 4,
+      name: t("services.title4"),
+      imageSrc: "/img/S4.png",
+      subname: t("services.subtitle4"),
     },
     {
       id: 6,
@@ -161,15 +161,17 @@ const Services = () => {
     },
   ];
 
-  const selectedServices = [17, 8, 11].map((id) =>
+  const selectedServices = [5, 17, 7].map((id) =>
     services.find((service) => service.id === id)
   );
 
   // Íconos asociados a los servicios seleccionados
   const icons = [
-    <Plane className="h-5 w-5 block" />, // Ícono para el primer servicio (ID 17)
-    <Pyramid className="h-5 w-5 block" />, // Ícono para el segundo servicio (ID 8)
-    <Sailboat className="h-5 w-5 block" />, // Ícono para el tercer servicio (ID 11)
+     // Ícono para el primer servicio (ID 17)
+     <Sailboat className="h-5 w-5 block" />,
+     <Plane className="h-5 w-5 block" />,
+     <Pyramid className="h-5 w-5 block" />, // Ícono para el segundo servicio (ID 8)
+    , // Ícono para el tercer servicio (ID 11)
   ];
 
   // Generar los enlaces dinámicamente
